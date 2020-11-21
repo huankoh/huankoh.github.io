@@ -1,0 +1,3163 @@
+"Date","variable","value"
+1959,"Motor vehicles (New)",1
+1960,"Motor vehicles (New)",1.061936834
+1961,"Motor vehicles (New)",0.913875686
+1962,"Motor vehicles (New)",1.142151915
+1963,"Motor vehicles (New)",1.313005817
+1964,"Motor vehicles (New)",1.394578921
+1965,"Motor vehicles (New)",1.630783065
+1966,"Motor vehicles (New)",1.618340643
+1967,"Motor vehicles (New)",1.547484906
+1968,"Motor vehicles (New)",1.907837992
+1969,"Motor vehicles (New)",1.97038043
+1970,"Motor vehicles (New)",1.720504303
+1971,"Motor vehicles (New)",2.241471069
+1972,"Motor vehicles (New)",2.581747445
+1973,"Motor vehicles (New)",2.841570168
+1974,"Motor vehicles (New)",2.326329119
+1975,"Motor vehicles (New)",2.537538309
+1976,"Motor vehicles (New)",3.423611239
+1977,"Motor vehicles (New)",4.100328495
+1978,"Motor vehicles (New)",4.605090749
+1979,"Motor vehicles (New)",4.507625112
+1980,"Motor vehicles (New)",3.988273293
+1981,"Motor vehicles (New)",4.341377475
+1982,"Motor vehicles (New)",4.718430567
+1983,"Motor vehicles (New)",6.08296783
+1984,"Motor vehicles (New)",7.31614395
+1985,"Motor vehicles (New)",8.649501753
+1986,"Motor vehicles (New)",9.839918519
+1987,"Motor vehicles (New)",9.45401993
+1988,"Motor vehicles (New)",10.14628104
+1989,"Motor vehicles (New)",10.22583546
+1990,"Motor vehicles (New)",9.885228753
+1991,"Motor vehicles (New)",8.287845699
+1992,"Motor vehicles (New)",9.299884385
+1993,"Motor vehicles (New)",10.19588556
+1994,"Motor vehicles (New)",11.09909893
+1995,"Motor vehicles (New)",10.82384247
+1996,"Motor vehicles (New)",11.229047
+1997,"Motor vehicles (New)",11.90717733
+1998,"Motor vehicles (New)",13.16723863
+1999,"Motor vehicles (New)",14.68559946
+2000,"Motor vehicles (New)",15.46737993
+2001,"Motor vehicles (New)",16.88484337
+2002,"Motor vehicles (New)",17.87825512
+2003,"Motor vehicles (New)",18.46961884
+2004,"Motor vehicles (New)",18.53010589
+2005,"Motor vehicles (New)",18.27048503
+2006,"Motor vehicles (New)",17.10715531
+2007,"Motor vehicles (New)",17.114863
+2008,"Motor vehicles (New)",13.5962269
+2009,"Motor vehicles (New)",12.15782423
+2010,"Motor vehicles (New)",13.38121892
+2011,"Motor vehicles (New)",15.25802426
+2012,"Motor vehicles (New)",17.3943587
+2013,"Motor vehicles (New)",18.33425703
+2014,"Motor vehicles (New)",19.40968233
+2015,"Motor vehicles (New)",20.32902681
+2016,"Motor vehicles (New)",20.18823292
+2017,"Motor vehicles (New)",20.70679562
+2018,"Motor vehicles (New)",21.09249234
+2019,"Motor vehicles (New)",20.91213228
+2020,"Motor vehicles (New)",19.60690756
+1959,"Motor vehicles (Used)",1
+1960,"Motor vehicles (Used)",0.94430971
+1961,"Motor vehicles (Used)",0.971346447
+1962,"Motor vehicles (Used)",1.078595168
+1963,"Motor vehicles (Used)",1.202730621
+1964,"Motor vehicles (Used)",1.281595257
+1965,"Motor vehicles (Used)",1.429623641
+1966,"Motor vehicles (Used)",1.478846672
+1967,"Motor vehicles (Used)",1.623731249
+1968,"Motor vehicles (Used)",1.728464924
+1969,"Motor vehicles (Used)",1.869397287
+1970,"Motor vehicles (Used)",1.80113177
+1971,"Motor vehicles (Used)",1.998383185
+1972,"Motor vehicles (Used)",2.224108506
+1973,"Motor vehicles (Used)",2.425222312
+1974,"Motor vehicles (Used)",2.50354801
+1975,"Motor vehicles (Used)",2.79816761
+1976,"Motor vehicles (Used)",3.652564448
+1977,"Motor vehicles (Used)",3.974130962
+1978,"Motor vehicles (Used)",4.319410761
+1979,"Motor vehicles (Used)",4.467439145
+1980,"Motor vehicles (Used)",4.373574059
+1981,"Motor vehicles (Used)",5.138147849
+1982,"Motor vehicles (Used)",5.499326327
+1983,"Motor vehicles (Used)",6.453336926
+1984,"Motor vehicles (Used)",8.886014551
+1985,"Motor vehicles (Used)",10.33036917
+1986,"Motor vehicles (Used)",10.75298662
+1987,"Motor vehicles (Used)",12.73717776
+1988,"Motor vehicles (Used)",13.53884847
+1989,"Motor vehicles (Used)",14.91098536
+1990,"Motor vehicles (Used)",15.16248989
+1991,"Motor vehicles (Used)",16.18305937
+1992,"Motor vehicles (Used)",17.74220785
+1993,"Motor vehicles (Used)",19.76906494
+1994,"Motor vehicles (Used)",23.32003952
+1995,"Motor vehicles (Used)",26.18952663
+1996,"Motor vehicles (Used)",29.77364592
+1997,"Motor vehicles (Used)",32.9618252
+1998,"Motor vehicles (Used)",36.41570107
+1999,"Motor vehicles (Used)",39.37923291
+2000,"Motor vehicles (Used)",39.78478398
+2001,"Motor vehicles (Used)",40.24485763
+2002,"Motor vehicles (Used)",41.72154855
+2003,"Motor vehicles (Used)",38.00961107
+2004,"Motor vehicles (Used)",39.43465373
+2005,"Motor vehicles (Used)",39.68409234
+2006,"Motor vehicles (Used)",38.96901105
+2007,"Motor vehicles (Used)",39.94610617
+2008,"Motor vehicles (Used)",36.90020659
+2009,"Motor vehicles (Used)",35.96541813
+2010,"Motor vehicles (Used)",37.93703404
+2011,"Motor vehicles (Used)",34.70394323
+2012,"Motor vehicles (Used)",34.61537771
+2013,"Motor vehicles (Used)",36.75065122
+2014,"Motor vehicles (Used)",39.79430522
+2015,"Motor vehicles (Used)",46.19150274
+2016,"Motor vehicles (Used)",49.93415971
+2017,"Motor vehicles (Used)",53.39854487
+2018,"Motor vehicles (Used)",57.8437079
+2019,"Motor vehicles (Used)",56.96541813
+2020,"Motor vehicles (Used)",53.94955611
+1959,"Motor vehicle (Parts)",1
+1960,"Motor vehicle (Parts)",1.043642467
+1961,"Motor vehicle (Parts)",1.078052875
+1962,"Motor vehicle (Parts)",1.185480487
+1963,"Motor vehicle (Parts)",1.263953
+1964,"Motor vehicle (Parts)",1.35826689
+1965,"Motor vehicle (Parts)",1.447754931
+1966,"Motor vehicle (Parts)",1.579941251
+1967,"Motor vehicle (Parts)",1.678976081
+1968,"Motor vehicle (Parts)",1.935795216
+1969,"Motor vehicle (Parts)",2.267310113
+1970,"Motor vehicle (Parts)",2.554343265
+1971,"Motor vehicle (Parts)",2.994544692
+1972,"Motor vehicle (Parts)",3.35868653
+1973,"Motor vehicle (Parts)",3.733948804
+1974,"Motor vehicle (Parts)",3.989509022
+1975,"Motor vehicle (Parts)",4.316827528
+1976,"Motor vehicle (Parts)",4.769932858
+1977,"Motor vehicle (Parts)",5.403692824
+1978,"Motor vehicle (Parts)",6.049937054
+1979,"Motor vehicle (Parts)",6.854595048
+1980,"Motor vehicle (Parts)",7.522450692
+1981,"Motor vehicle (Parts)",8.213806127
+1982,"Motor vehicle (Parts)",8.573122115
+1983,"Motor vehicle (Parts)",9.281263114
+1984,"Motor vehicle (Parts)",9.565044062
+1985,"Motor vehicle (Parts)",9.854490138
+1986,"Motor vehicle (Parts)",9.879983214
+1987,"Motor vehicle (Parts)",10.04626521
+1988,"Motor vehicle (Parts)",11.04122954
+1989,"Motor vehicle (Parts)",11.31598825
+1990,"Motor vehicle (Parts)",11.85637851
+1991,"Motor vehicle (Parts)",11.6673311
+1992,"Motor vehicle (Parts)",12.05507763
+1993,"Motor vehicle (Parts)",12.92362568
+1994,"Motor vehicle (Parts)",14.15736467
+1995,"Motor vehicle (Parts)",14.84095678
+1996,"Motor vehicle (Parts)",15.79804868
+1997,"Motor vehicle (Parts)",16.42173731
+1998,"Motor vehicle (Parts)",16.56598825
+1999,"Motor vehicle (Parts)",17.23436844
+2000,"Motor vehicle (Parts)",17.53608896
+2001,"Motor vehicle (Parts)",17.31430969
+2002,"Motor vehicle (Parts)",17.4881452
+2003,"Motor vehicle (Parts)",18.51489719
+2004,"Motor vehicle (Parts)",19.77486362
+2005,"Motor vehicle (Parts)",21.23741083
+2006,"Motor vehicle (Parts)",22.42635334
+2007,"Motor vehicle (Parts)",23.60113303
+2008,"Motor vehicle (Parts)",23.25503567
+2009,"Motor vehicle (Parts)",22.18170373
+2010,"Motor vehicle (Parts)",23.74695762
+2011,"Motor vehicle (Parts)",25.48594209
+2012,"Motor vehicle (Parts)",26.56556861
+2013,"Motor vehicle (Parts)",27.47943768
+2014,"Motor vehicle (Parts)",28.0408099
+2015,"Motor vehicle (Parts)",29.3101133
+2016,"Motor vehicle (Parts)",30.02738145
+2017,"Motor vehicle (Parts)",30.60753252
+2018,"Motor vehicle (Parts)",31.42887117
+2019,"Motor vehicle (Parts)",32.90642048
+2020,"Motor vehicle (Parts)",32.80057722
+1959,"Furniture and furnishings",1
+1960,"Furniture and furnishings",0.999855712
+1961,"Furniture and furnishings",1.011514155
+1962,"Furniture and furnishings",1.083917698
+1963,"Furniture and furnishings",1.176550371
+1964,"Furniture and furnishings",1.329755
+1965,"Furniture and furnishings",1.415548437
+1966,"Furniture and furnishings",1.531209419
+1967,"Furniture and furnishings",1.593974548
+1968,"Furniture and furnishings",1.741205668
+1969,"Furniture and furnishings",1.817418405
+1970,"Furniture and furnishings",1.81969815
+1971,"Furniture and furnishings",1.915043431
+1972,"Furniture and furnishings",2.146711684
+1973,"Furniture and furnishings",2.445156264
+1974,"Furniture and furnishings",2.64138747
+1975,"Furniture and furnishings",2.715695611
+1976,"Furniture and furnishings",2.99743168
+1977,"Furniture and furnishings",3.418722766
+1978,"Furniture and furnishings",3.766744582
+1979,"Furniture and furnishings",4.161861888
+1980,"Furniture and furnishings",4.263296107
+1981,"Furniture and furnishings",4.435056128
+1982,"Furniture and furnishings",4.366375206
+1983,"Furniture and furnishings",4.981704326
+1984,"Furniture and furnishings",5.694629614
+1985,"Furniture and furnishings",6.133177503
+1986,"Furniture and furnishings",6.855596918
+1987,"Furniture and furnishings",7.446310565
+1988,"Furniture and furnishings",7.788445445
+1989,"Furniture and furnishings",8.171904308
+1990,"Furniture and furnishings",7.990967593
+1991,"Furniture and furnishings",7.747640897
+1992,"Furniture and furnishings",7.996306236
+1993,"Furniture and furnishings",8.488096269
+1994,"Furniture and furnishings",9.163304764
+1995,"Furniture and furnishings",9.62479439
+1996,"Furniture and furnishings",10.19507691
+1997,"Furniture and furnishings",10.82627767
+1998,"Furniture and furnishings",11.680778
+1999,"Furniture and furnishings",12.84526592
+2000,"Furniture and furnishings",14.04513318
+2001,"Furniture and furnishings",14.36900124
+2002,"Furniture and furnishings",15.03047355
+2003,"Furniture and furnishings",15.71465674
+2004,"Furniture and furnishings",17.19043084
+2005,"Furniture and furnishings",18.53334488
+2006,"Furniture and furnishings",19.60326667
+2007,"Furniture and furnishings",19.83248204
+2008,"Furniture and furnishings",18.06920036
+2009,"Furniture and furnishings",16.04767264
+2010,"Furniture and furnishings",16.22101983
+2011,"Furniture and furnishings",16.60750873
+2012,"Furniture and furnishings",17.1661328
+2013,"Furniture and furnishings",17.819323
+2014,"Furniture and furnishings",18.87940438
+2015,"Furniture and furnishings",20.46105676
+2016,"Furniture and furnishings",21.74986293
+2017,"Furniture and furnishings",23.05355958
+2018,"Furniture and furnishings",24.63829971
+2019,"Furniture and furnishings",25.82731654
+2020,"Furniture and furnishings",26.01706599
+1959,"Household appliances",1
+1960,"Household appliances",0.97081448
+1961,"Household appliances",0.969230769
+1962,"Household appliances",0.978054299
+1963,"Household appliances",1.020588235
+1964,"Household appliances",1.102488688
+1965,"Household appliances",1.108597285
+1966,"Household appliances",1.209049774
+1967,"Household appliances",1.252714932
+1968,"Household appliances",1.408371041
+1969,"Household appliances",1.540214932
+1970,"Household appliances",1.641855204
+1971,"Household appliances",1.797285068
+1972,"Household appliances",2.035520362
+1973,"Household appliances",2.238687783
+1974,"Household appliances",2.33800905
+1975,"Household appliances",2.393891403
+1976,"Household appliances",2.603167421
+1977,"Household appliances",2.878959276
+1978,"Household appliances",3.078054299
+1979,"Household appliances",3.349717195
+1980,"Household appliances",3.41719457
+1981,"Household appliances",3.510859729
+1982,"Household appliances",3.433710407
+1983,"Household appliances",3.799773756
+1984,"Household appliances",4.15729638
+1985,"Household appliances",4.484049774
+1986,"Household appliances",4.806052036
+1987,"Household appliances",4.927771493
+1988,"Household appliances",5.13489819
+1989,"Household appliances",5.396436652
+1990,"Household appliances",5.352884615
+1991,"Household appliances",5.262726244
+1992,"Household appliances",5.49479638
+1993,"Household appliances",5.700282805
+1994,"Household appliances",5.841459276
+1995,"Household appliances",6.011595023
+1996,"Household appliances",6.062782805
+1997,"Household appliances",6.002714932
+1998,"Household appliances",6.479242081
+1999,"Household appliances",7.152997738
+2000,"Household appliances",7.70989819
+2001,"Household appliances",8.085746606
+2002,"Household appliances",8.507975113
+2003,"Household appliances",8.809785068
+2004,"Household appliances",9.520418552
+2005,"Household appliances",10.20299774
+2006,"Household appliances",10.627319
+2007,"Household appliances",10.57963801
+2008,"Household appliances",10.42839367
+2009,"Household appliances",9.687386878
+2010,"Household appliances",9.975452489
+2011,"Household appliances",10.40067873
+2012,"Household appliances",10.88964932
+2013,"Household appliances",11.33371041
+2014,"Household appliances",11.5936086
+2015,"Household appliances",11.92075792
+2016,"Household appliances",12.25831448
+2017,"Household appliances",12.53201357
+2018,"Household appliances",12.97273756
+2019,"Household appliances",13.22415158
+2020,"Household appliances",13.49732201
+1959,"Household tableware",1
+1960,"Household tableware",1
+1961,"Household tableware",1.010953518
+1962,"Household tableware",1.070917006
+1963,"Household tableware",1.096053925
+1964,"Household tableware",1.225810982
+1965,"Household tableware",1.366942845
+1966,"Household tableware",1.577306558
+1967,"Household tableware",1.697233535
+1968,"Household tableware",1.874596265
+1969,"Household tableware",1.969105463
+1970,"Household tableware",2.000421289
+1971,"Household tableware",2.098160371
+1972,"Household tableware",2.293498104
+1973,"Household tableware",2.648504424
+1974,"Household tableware",2.928240416
+1975,"Household tableware",3.219912934
+1976,"Household tableware",3.657211066
+1977,"Household tableware",4.112343772
+1978,"Household tableware",4.807330431
+1979,"Household tableware",5.357112765
+1980,"Household tableware",5.92613397
+1981,"Household tableware",6.636567898
+1982,"Household tableware",7.195197304
+1983,"Household tableware",7.499648926
+1984,"Household tableware",7.91138885
+1985,"Household tableware",8.087066423
+1986,"Household tableware",8.505827833
+1987,"Household tableware",8.495155175
+1988,"Household tableware",9.139587137
+1989,"Household tableware",9.831343912
+1990,"Household tableware",10.31315826
+1991,"Household tableware",10.41230164
+1992,"Household tableware",11.26232271
+1993,"Household tableware",11.87782615
+1994,"Household tableware",12.78823199
+1995,"Household tableware",13.33689089
+1996,"Household tableware",13.91475916
+1997,"Household tableware",14.42606376
+1998,"Household tableware",15.91124842
+1999,"Household tableware",17.92388709
+2000,"Household tableware",19.81421149
+2001,"Household tableware",20.84833591
+2002,"Household tableware",22.45372841
+2003,"Household tableware",23.21120629
+2004,"Household tableware",24.23620278
+2005,"Household tableware",25.05083556
+2006,"Household tableware",25.57140851
+2007,"Household tableware",25.16851566
+2008,"Household tableware",23.37845808
+2009,"Household tableware",21.02611993
+2010,"Household tableware",20.42732762
+2011,"Household tableware",19.80845387
+2012,"Household tableware",18.7967982
+2013,"Household tableware",19.25839068
+2014,"Household tableware",19.80129195
+2015,"Household tableware",20.82347985
+2016,"Household tableware",21.48588681
+2017,"Household tableware",22.26035669
+2018,"Household tableware",23.02148575
+2019,"Household tableware",24.15896644
+2020,"Household tableware",23.66298015
+1959,"House and gardening tools",1
+1960,"House and gardening tools",1.056531704
+1961,"House and gardening tools",1.108479756
+1962,"House and gardening tools",1.228800611
+1963,"House and gardening tools",1.30710466
+1964,"House and gardening tools",1.438884645
+1965,"House and gardening tools",1.625668449
+1966,"House and gardening tools",1.872803667
+1967,"House and gardening tools",2.00381971
+1968,"House and gardening tools",2.203972498
+1969,"House and gardening tools",2.338044309
+1970,"House and gardening tools",2.397249809
+1971,"House and gardening tools",2.557295646
+1972,"House and gardening tools",2.81894576
+1973,"House and gardening tools",3.312452254
+1974,"House and gardening tools",3.759358289
+1975,"House and gardening tools",4.235294118
+1976,"House and gardening tools",4.870511841
+1977,"House and gardening tools",5.640183346
+1978,"House and gardening tools",6.431245225
+1979,"House and gardening tools",7.419022154
+1980,"House and gardening tools",8.029411765
+1981,"House and gardening tools",8.718487395
+1982,"House and gardening tools",9.163483575
+1983,"House and gardening tools",9.879679144
+1984,"House and gardening tools",10.75515661
+1985,"House and gardening tools",11.10847976
+1986,"House and gardening tools",11.72994652
+1987,"House and gardening tools",12.41061879
+1988,"House and gardening tools",13.31436211
+1989,"House and gardening tools",14.11535523
+1990,"House and gardening tools",14.80939649
+1991,"House and gardening tools",15.07486631
+1992,"House and gardening tools",16.31398014
+1993,"House and gardening tools",17.55882353
+1994,"House and gardening tools",19.16157372
+1995,"House and gardening tools",19.93200917
+1996,"House and gardening tools",20.84530176
+1997,"House and gardening tools",22.13216196
+1998,"House and gardening tools",23.56226127
+1999,"House and gardening tools",25.0236822
+2000,"House and gardening tools",26.09167303
+2001,"House and gardening tools",26.8961039
+2002,"House and gardening tools",27.61917494
+2003,"House and gardening tools",28.66271963
+2004,"House and gardening tools",30.80022918
+2005,"House and gardening tools",32.11650115
+2006,"House and gardening tools",32.50229183
+2007,"House and gardening tools",30.67341482
+2008,"House and gardening tools",30.70664629
+2009,"House and gardening tools",29.03017571
+2010,"House and gardening tools",30.46600458
+2011,"House and gardening tools",33.2341482
+2012,"House and gardening tools",36.10122231
+2013,"House and gardening tools",37.94728801
+2014,"House and gardening tools",39.89992361
+2015,"House and gardening tools",41.55767762
+2016,"House and gardening tools",43.56035141
+2017,"House and gardening tools",45.8460657
+2018,"House and gardening tools",48.21237586
+2019,"House and gardening tools",49.24637128
+2020,"House and gardening tools",54.38019364
+1959,"Audio-visual equipment",1
+1960,"Audio-visual equipment",0.989225949
+1961,"Audio-visual equipment",1.026514862
+1962,"Audio-visual equipment",1.082371819
+1963,"Audio-visual equipment",1.196912967
+1964,"Audio-visual equipment",1.392450523
+1965,"Audio-visual equipment",1.641858333
+1966,"Audio-visual equipment",2.000993352
+1967,"Audio-visual equipment",2.240620463
+1968,"Audio-visual equipment",2.427065026
+1969,"Audio-visual equipment",2.543974937
+1970,"Audio-visual equipment",2.691678765
+1971,"Audio-visual equipment",2.821960724
+1972,"Audio-visual equipment",3.251088867
+1973,"Audio-visual equipment",3.695117292
+1974,"Audio-visual equipment",3.958279208
+1975,"Audio-visual equipment",4.384809353
+1976,"Audio-visual equipment",4.846870941
+1977,"Audio-visual equipment",5.200809964
+1978,"Audio-visual equipment",5.685489417
+1979,"Audio-visual equipment",6.332161687
+1980,"Audio-visual equipment",6.702758463
+1981,"Audio-visual equipment",7.178650569
+1982,"Audio-visual equipment",7.48139375
+1983,"Audio-visual equipment",9.231145411
+1984,"Audio-visual equipment",10.46389547
+1985,"Audio-visual equipment",11.75662872
+1986,"Audio-visual equipment",13.68632995
+1987,"Audio-visual equipment",15.13012914
+1988,"Audio-visual equipment",16.58080538
+1989,"Audio-visual equipment",17.04393673
+1990,"Audio-visual equipment",17.14525865
+1991,"Audio-visual equipment",17.75372507
+1992,"Audio-visual equipment",18.24551081
+1993,"Audio-visual equipment",20.39000535
+1994,"Audio-visual equipment",23.44479254
+1995,"Audio-visual equipment",25.89676778
+1996,"Audio-visual equipment",27.85000382
+1997,"Audio-visual equipment",29.39504852
+1998,"Audio-visual equipment",32.47764958
+1999,"Audio-visual equipment",35.82364178
+2000,"Audio-visual equipment",39.02452816
+2001,"Audio-visual equipment",39.30916176
+2002,"Audio-visual equipment",40.97753496
+2003,"Audio-visual equipment",43.33239092
+2004,"Audio-visual equipment",48.49591197
+2005,"Audio-visual equipment",53.21624513
+2006,"Audio-visual equipment",57.45533736
+2007,"Audio-visual equipment",60.83984106
+2008,"Audio-visual equipment",59.82776801
+2009,"Audio-visual equipment",55.18415221
+2010,"Audio-visual equipment",55.85787423
+2011,"Audio-visual equipment",57.45770612
+2012,"Audio-visual equipment",58.20218537
+2013,"Audio-visual equipment",59.0926874
+2014,"Audio-visual equipment",59.98127913
+2015,"Audio-visual equipment",59.34515168
+2016,"Audio-visual equipment",61.18697945
+2017,"Audio-visual equipment",66.09337511
+2018,"Audio-visual equipment",71.39764652
+2019,"Audio-visual equipment",78.34553374
+2020,"Audio-visual equipment",83.17538982
+1959,"Sporting equipment and guns",1
+1960,"Sporting equipment and guns",1.053333333
+1961,"Sporting equipment and guns",1.129025641
+1962,"Sporting equipment and guns",1.142153846
+1963,"Sporting equipment and guns",1.141333333
+1964,"Sporting equipment and guns",1.251076923
+1965,"Sporting equipment and guns",1.414153846
+1966,"Sporting equipment and guns",1.779897436
+1967,"Sporting equipment and guns",1.979692308
+1968,"Sporting equipment and guns",2.228102564
+1969,"Sporting equipment and guns",2.353435897
+1970,"Sporting equipment and guns",2.359589744
+1971,"Sporting equipment and guns",2.42974359
+1972,"Sporting equipment and guns",2.957333333
+1973,"Sporting equipment and guns",3.142564103
+1974,"Sporting equipment and guns",3.513846154
+1975,"Sporting equipment and guns",4.158358974
+1976,"Sporting equipment and guns",5.065230769
+1977,"Sporting equipment and guns",5.569435897
+1978,"Sporting equipment and guns",6.217230769
+1979,"Sporting equipment and guns",6.662564103
+1980,"Sporting equipment and guns",7.297025641
+1981,"Sporting equipment and guns",7.76225641
+1982,"Sporting equipment and guns",7.802051282
+1983,"Sporting equipment and guns",8.177846154
+1984,"Sporting equipment and guns",9.385641026
+1985,"Sporting equipment and guns",9.974153846
+1986,"Sporting equipment and guns",10.78769231
+1987,"Sporting equipment and guns",12.62051282
+1988,"Sporting equipment and guns",14.07076923
+1989,"Sporting equipment and guns",15.40779487
+1990,"Sporting equipment and guns",16.36389744
+1991,"Sporting equipment and guns",16.78092308
+1992,"Sporting equipment and guns",17.84
+1993,"Sporting equipment and guns",19.36697436
+1994,"Sporting equipment and guns",21.2705641
+1995,"Sporting equipment and guns",22.29087179
+1996,"Sporting equipment and guns",23.40841026
+1997,"Sporting equipment and guns",24.22338462
+1998,"Sporting equipment and guns",26.32287179
+1999,"Sporting equipment and guns",28.94420513
+2000,"Sporting equipment and guns",32.07589744
+2001,"Sporting equipment and guns",33.85907692
+2002,"Sporting equipment and guns",35.34379487
+2003,"Sporting equipment and guns",36.98010256
+2004,"Sporting equipment and guns",39.41846154
+2005,"Sporting equipment and guns",41.73805128
+2006,"Sporting equipment and guns",44.54789744
+2007,"Sporting equipment and guns",45.32164103
+2008,"Sporting equipment and guns",45.20369231
+2009,"Sporting equipment and guns",42.85846154
+2010,"Sporting equipment and guns",43.3185641
+2011,"Sporting equipment and guns",44.93230769
+2012,"Sporting equipment and guns",47.1614359
+2013,"Sporting equipment and guns",49.30461538
+2014,"Sporting equipment and guns",50.72225641
+2015,"Sporting equipment and guns",54.37969231
+2016,"Sporting equipment and guns",57.70605128
+2017,"Sporting equipment and guns",58.98482051
+2018,"Sporting equipment and guns",61.65292308
+2019,"Sporting equipment and guns",65.57948718
+2020,"Sporting equipment and guns",73.76452119
+1959,"Sports and recreational vehicles",1
+1960,"Sports and recreational vehicles",0.909685086
+1961,"Sports and recreational vehicles",0.82798574
+1962,"Sports and recreational vehicles",0.930481283
+1963,"Sports and recreational vehicles",1.077243018
+1964,"Sports and recreational vehicles",1.36631016
+1965,"Sports and recreational vehicles",1.629827689
+1966,"Sports and recreational vehicles",2.045157457
+1967,"Sports and recreational vehicles",2.311942959
+1968,"Sports and recreational vehicles",3.126856803
+1969,"Sports and recreational vehicles",3.871063577
+1970,"Sports and recreational vehicles",4.126559715
+1971,"Sports and recreational vehicles",4.965240642
+1972,"Sports and recreational vehicles",6.511586453
+1973,"Sports and recreational vehicles",7.615864528
+1974,"Sports and recreational vehicles",7.366607249
+1975,"Sports and recreational vehicles",8.854129531
+1976,"Sports and recreational vehicles",10.19399881
+1977,"Sports and recreational vehicles",11.86333928
+1978,"Sports and recreational vehicles",12.88770053
+1979,"Sports and recreational vehicles",13.91087344
+1980,"Sports and recreational vehicles",11.67676768
+1981,"Sports and recreational vehicles",12.38710636
+1982,"Sports and recreational vehicles",12.29441474
+1983,"Sports and recreational vehicles",12.77243018
+1984,"Sports and recreational vehicles",16.35056447
+1985,"Sports and recreational vehicles",17.37641117
+1986,"Sports and recreational vehicles",18.67320261
+1987,"Sports and recreational vehicles",19.52941176
+1988,"Sports and recreational vehicles",20.2305407
+1989,"Sports and recreational vehicles",20.57070707
+1990,"Sports and recreational vehicles",19.74688057
+1991,"Sports and recreational vehicles",18.96939988
+1992,"Sports and recreational vehicles",18.85264409
+1993,"Sports and recreational vehicles",21.36512181
+1994,"Sports and recreational vehicles",24.21746881
+1995,"Sports and recreational vehicles",26.72697564
+1996,"Sports and recreational vehicles",28.61111111
+1997,"Sports and recreational vehicles",30.93701723
+1998,"Sports and recreational vehicles",34.05258467
+1999,"Sports and recreational vehicles",37.81758764
+2000,"Sports and recreational vehicles",41.49286988
+2001,"Sports and recreational vehicles",42.04010695
+2002,"Sports and recreational vehicles",43.43107546
+2003,"Sports and recreational vehicles",48.77807487
+2004,"Sports and recreational vehicles",54.59298871
+2005,"Sports and recreational vehicles",58.38294712
+2006,"Sports and recreational vehicles",61.03654189
+2007,"Sports and recreational vehicles",62.30926916
+2008,"Sports and recreational vehicles",55.06714201
+2009,"Sports and recreational vehicles",43.23202614
+2010,"Sports and recreational vehicles",42.533571
+2011,"Sports and recreational vehicles",44.34937611
+2012,"Sports and recreational vehicles",48.36423054
+2013,"Sports and recreational vehicles",53.50861557
+2014,"Sports and recreational vehicles",57.3731432
+2015,"Sports and recreational vehicles",61.85086156
+2016,"Sports and recreational vehicles",66.35947712
+2017,"Sports and recreational vehicles",71.33868093
+2018,"Sports and recreational vehicles",74.6087344
+2019,"Sports and recreational vehicles",80.83273916
+2020,"Sports and recreational vehicles",89.13686687
+1959,"Recreational books",1
+1960,"Recreational books",1.0456635
+1961,"Recreational books",1.111860251
+1962,"Recreational books",1.180508734
+1963,"Recreational books",1.294820717
+1964,"Recreational books",1.479007049
+1965,"Recreational books",1.513944223
+1966,"Recreational books",1.691694759
+1967,"Recreational books",1.699969353
+1968,"Recreational books",1.847686178
+1969,"Recreational books",2.116457248
+1970,"Recreational books",2.678210236
+1971,"Recreational books",2.727551333
+1972,"Recreational books",2.698130555
+1973,"Recreational books",2.789151088
+1974,"Recreational books",2.899479007
+1975,"Recreational books",3.223720503
+1976,"Recreational books",3.210542446
+1977,"Recreational books",3.645724793
+1978,"Recreational books",4.459393196
+1979,"Recreational books",5.114924916
+1980,"Recreational books",5.767085504
+1981,"Recreational books",6.553171928
+1982,"Recreational books",7.171314741
+1983,"Recreational books",7.963224027
+1984,"Recreational books",8.655838186
+1985,"Recreational books",9.007968127
+1986,"Recreational books",9.526509347
+1987,"Recreational books",10.73521299
+1988,"Recreational books",11.726019
+1989,"Recreational books",12.39626111
+1990,"Recreational books",13.30370824
+1991,"Recreational books",13.53417101
+1992,"Recreational books",14.10634386
+1993,"Recreational books",15.68525896
+1994,"Recreational books",17.93656145
+1995,"Recreational books",20.11645725
+1996,"Recreational books",22.20778425
+1997,"Recreational books",24.13913576
+1998,"Recreational books",25.60067423
+1999,"Recreational books",27.8155072
+2000,"Recreational books",29.93962611
+2001,"Recreational books",30.33864542
+2002,"Recreational books",31.75268158
+2003,"Recreational books",32.50291143
+2004,"Recreational books",32.93686791
+2005,"Recreational books",33.06895495
+2006,"Recreational books",33.29941771
+2007,"Recreational books",33.19399326
+2008,"Recreational books",31.52589641
+2009,"Recreational books",29.05363163
+2010,"Recreational books",27.71069568
+2011,"Recreational books",25.15997548
+2012,"Recreational books",22.38921238
+2013,"Recreational books",22.17652467
+2014,"Recreational books",22.49708857
+2015,"Recreational books",22.67453264
+2016,"Recreational books",23.74655225
+2017,"Recreational books",24.6803555
+2018,"Recreational books",26.09745633
+2019,"Recreational books",27.47961998
+2020,"Recreational books",27.97037908
+1959,"Musical instruments",1
+1960,"Musical instruments",1.019230769
+1961,"Musical instruments",1.096153846
+1962,"Musical instruments",1.194570136
+1963,"Musical instruments",1.333710407
+1964,"Musical instruments",1.511312217
+1965,"Musical instruments",1.740950226
+1966,"Musical instruments",2.085972851
+1967,"Musical instruments",2.271493213
+1968,"Musical instruments",2.438914027
+1969,"Musical instruments",2.520361991
+1970,"Musical instruments",2.647058824
+1971,"Musical instruments",2.714932127
+1972,"Musical instruments",3.031674208
+1973,"Musical instruments",3.36199095
+1974,"Musical instruments",3.564479638
+1975,"Musical instruments",3.92760181
+1976,"Musical instruments",4.271493213
+1977,"Musical instruments",4.383484163
+1978,"Musical instruments",4.705882353
+1979,"Musical instruments",5.064479638
+1980,"Musical instruments",5.14479638
+1981,"Musical instruments",5.257918552
+1982,"Musical instruments",5
+1983,"Musical instruments",5.622171946
+1984,"Musical instruments",6.107466063
+1985,"Musical instruments",6.714932127
+1986,"Musical instruments",7.266968326
+1987,"Musical instruments",7.817873303
+1988,"Musical instruments",8.555429864
+1989,"Musical instruments",8.783936652
+1990,"Musical instruments",9.277149321
+1991,"Musical instruments",9.839366516
+1992,"Musical instruments",9.890271493
+1993,"Musical instruments",10.79072398
+1994,"Musical instruments",12.21832579
+1995,"Musical instruments",13.24321267
+1996,"Musical instruments",13.9841629
+1997,"Musical instruments",14.53280543
+1998,"Musical instruments",15.75
+1999,"Musical instruments",17.76470588
+2000,"Musical instruments",21.48529412
+2001,"Musical instruments",22.31561086
+2002,"Musical instruments",23.44004525
+2003,"Musical instruments",22.91063348
+2004,"Musical instruments",24.10067873
+2005,"Musical instruments",24.06221719
+2006,"Musical instruments",24.98303167
+2007,"Musical instruments",24.39140271
+2008,"Musical instruments",23.39932127
+2009,"Musical instruments",21.05995475
+2010,"Musical instruments",21.11764706
+2011,"Musical instruments",21.53846154
+2012,"Musical instruments",22.43325792
+2013,"Musical instruments",22.69683258
+2014,"Musical instruments",23.68552036
+2015,"Musical instruments",24.88800905
+2016,"Musical instruments",25.78733032
+2017,"Musical instruments",26.60746606
+2018,"Musical instruments",28.0361991
+2019,"Musical instruments",30.20701357
+2020,"Musical instruments",29.21091514
+1959,"Jewelry and watches",1
+1960,"Jewelry and watches",0.990773962
+1961,"Jewelry and watches",0.975269093
+1962,"Jewelry and watches",1.047667863
+1963,"Jewelry and watches",1.106611994
+1964,"Jewelry and watches",1.242439774
+1965,"Jewelry and watches",1.383521271
+1966,"Jewelry and watches",1.640184521
+1967,"Jewelry and watches",1.774987186
+1968,"Jewelry and watches",1.961430036
+1969,"Jewelry and watches",2.058431574
+1970,"Jewelry and watches",2.099436187
+1971,"Jewelry and watches",2.261276269
+1972,"Jewelry and watches",2.452075859
+1973,"Jewelry and watches",3.081624808
+1974,"Jewelry and watches",3.585853409
+1975,"Jewelry and watches",4.150563813
+1976,"Jewelry and watches",5.045617632
+1977,"Jewelry and watches",5.630574065
+1978,"Jewelry and watches",6.312532035
+1979,"Jewelry and watches",6.6797796
+1980,"Jewelry and watches",7.677088672
+1981,"Jewelry and watches",8.221809329
+1982,"Jewelry and watches",8.013839057
+1983,"Jewelry and watches",8.916068683
+1984,"Jewelry and watches",10.12788314
+1985,"Jewelry and watches",10.79254229
+1986,"Jewelry and watches",12.47206561
+1987,"Jewelry and watches",13.4479754
+1988,"Jewelry and watches",14.4993593
+1989,"Jewelry and watches",14.95386981
+1990,"Jewelry and watches",15.51973347
+1991,"Jewelry and watches",15.47488467
+1992,"Jewelry and watches",16.22001538
+1993,"Jewelry and watches",17.35238339
+1994,"Jewelry and watches",18.45899539
+1995,"Jewelry and watches",19.39633521
+1996,"Jewelry and watches",20.446694
+1997,"Jewelry and watches",20.45527934
+1998,"Jewelry and watches",21.81266017
+1999,"Jewelry and watches",23.85366479
+2000,"Jewelry and watches",25.16043055
+2001,"Jewelry and watches",24.38608406
+2002,"Jewelry and watches",25.17209124
+2003,"Jewelry and watches",26.61686315
+2004,"Jewelry and watches",28.99666838
+2005,"Jewelry and watches",30.62621732
+2006,"Jewelry and watches",32.9213224
+2007,"Jewelry and watches",34.43618657
+2008,"Jewelry and watches",33.07765249
+2009,"Jewelry and watches",30.34443875
+2010,"Jewelry and watches",31.1895182
+2011,"Jewelry and watches",34.26858022
+2012,"Jewelry and watches",35.15363916
+2013,"Jewelry and watches",35.72731932
+2014,"Jewelry and watches",36.50794464
+2015,"Jewelry and watches",37.4564326
+2016,"Jewelry and watches",36.9642491
+2017,"Jewelry and watches",37.12275756
+2018,"Jewelry and watches",38.59636084
+2019,"Jewelry and watches",39.30343414
+2020,"Jewelry and watches",33.77571941
+1959,"Therapeutic equipment",1
+1960,"Therapeutic equipment",1.026849642
+1961,"Therapeutic equipment",1.06026253
+1962,"Therapeutic equipment",1.261634845
+1963,"Therapeutic equipment",1.248806683
+1964,"Therapeutic equipment",1.380071599
+1965,"Therapeutic equipment",1.506861575
+1966,"Therapeutic equipment",1.68048926
+1967,"Therapeutic equipment",1.515513126
+1968,"Therapeutic equipment",1.749403341
+1969,"Therapeutic equipment",1.987768496
+1970,"Therapeutic equipment",2.271778043
+1971,"Therapeutic equipment",2.313842482
+1972,"Therapeutic equipment",2.585918854
+1973,"Therapeutic equipment",2.876491647
+1974,"Therapeutic equipment",3.224045346
+1975,"Therapeutic equipment",3.623210024
+1976,"Therapeutic equipment",3.886933174
+1977,"Therapeutic equipment",4.193914081
+1978,"Therapeutic equipment",4.71300716
+1979,"Therapeutic equipment",5.402446301
+1980,"Therapeutic equipment",6.053102625
+1981,"Therapeutic equipment",6.755071599
+1982,"Therapeutic equipment",7.450178998
+1983,"Therapeutic equipment",8.516109785
+1984,"Therapeutic equipment",9.974642005
+1985,"Therapeutic equipment",11.47792363
+1986,"Therapeutic equipment",13.13961814
+1987,"Therapeutic equipment",15.03729117
+1988,"Therapeutic equipment",17.62261337
+1989,"Therapeutic equipment",18.93645585
+1990,"Therapeutic equipment",21.96330549
+1991,"Therapeutic equipment",20.89856802
+1992,"Therapeutic equipment",21.59516706
+1993,"Therapeutic equipment",22.53192124
+1994,"Therapeutic equipment",24.31384248
+1995,"Therapeutic equipment",25.07488067
+1996,"Therapeutic equipment",27.45167064
+1997,"Therapeutic equipment",30.14468974
+1998,"Therapeutic equipment",33.19122912
+1999,"Therapeutic equipment",35.44600239
+2000,"Therapeutic equipment",38.38812649
+2001,"Therapeutic equipment",37.98657518
+2002,"Therapeutic equipment",40.62410501
+2003,"Therapeutic equipment",43.54087112
+2004,"Therapeutic equipment",47.42661098
+2005,"Therapeutic equipment",51.53729117
+2006,"Therapeutic equipment",55.96270883
+2007,"Therapeutic equipment",61.62470167
+2008,"Therapeutic equipment",61.12470167
+2009,"Therapeutic equipment",60.43675418
+2010,"Therapeutic equipment",62.53072792
+2011,"Therapeutic equipment",64.78729117
+2012,"Therapeutic equipment",65.61575179
+2013,"Therapeutic equipment",68.05131265
+2014,"Therapeutic equipment",70.41825776
+2015,"Therapeutic equipment",73.63633652
+2016,"Therapeutic equipment",76.65483294
+2017,"Therapeutic equipment",78.92332936
+2018,"Therapeutic equipment",82.35322196
+2019,"Therapeutic equipment",86.44361575
+2020,"Therapeutic equipment",77.5181433
+1959,"Educational books",1
+1960,"Educational books",1.047229791
+1961,"Educational books",1.111716621
+1962,"Educational books",1.180744777
+1963,"Educational books",1.29609446
+1964,"Educational books",1.479564033
+1965,"Educational books",1.514986376
+1966,"Educational books",1.692098093
+1967,"Educational books",1.701180745
+1968,"Educational books",1.849227975
+1969,"Educational books",2.117166213
+1970,"Educational books",2.680290645
+1971,"Educational books",2.729336966
+1972,"Educational books",2.699364214
+1973,"Educational books",2.825613079
+1974,"Educational books",3.002724796
+1975,"Educational books",3.415985468
+1976,"Educational books",3.476839237
+1977,"Educational books",3.995458674
+1978,"Educational books",4.891008174
+1979,"Educational books",5.617620345
+1980,"Educational books",6.342415985
+1981,"Educational books",7.215258856
+1982,"Educational books",7.901907357
+1983,"Educational books",9.112624886
+1984,"Educational books",10.58310627
+1985,"Educational books",11.75386013
+1986,"Educational books",13.24886467
+1987,"Educational books",15.42688465
+1988,"Educational books",16.8746594
+1989,"Educational books",17.88646685
+1990,"Educational books",19.24704814
+1991,"Educational books",19.63306085
+1992,"Educational books",20.49227975
+1993,"Educational books",21.99455041
+1994,"Educational books",23.55495005
+1995,"Educational books",24.71389646
+1996,"Educational books",25.4568574
+1997,"Educational books",26.64668483
+1998,"Educational books",28.53587648
+1999,"Educational books",31.11171662
+2000,"Educational books",32.8537693
+2001,"Educational books",33.53224342
+2002,"Educational books",35.24704814
+2003,"Educational books",35.80108992
+2004,"Educational books",35.88374205
+2005,"Educational books",35.51044505
+2006,"Educational books",35.11444142
+2007,"Educational books",34.23160763
+2008,"Educational books",34.85013624
+2009,"Educational books",34.57220708
+2010,"Educational books",35.67393279
+2011,"Educational books",35.30063579
+2012,"Educational books",34.69300636
+2013,"Educational books",34.34423252
+2014,"Educational books",34.83015441
+2015,"Educational books",35.09173479
+2016,"Educational books",36.7284287
+2017,"Educational books",38.15077203
+2018,"Educational books",40.30336058
+2019,"Educational books",42.40326975
+2020,"Educational books",43.07401435
+1959,"Personal items (e.g. Luggage)",1
+1960,"Personal items (e.g. Luggage)",1.021949078
+1961,"Personal items (e.g. Luggage)",1.074626866
+1962,"Personal items (e.g. Luggage)",1.119183494
+1963,"Personal items (e.g. Luggage)",1.169666374
+1964,"Personal items (e.g. Luggage)",1.28665496
+1965,"Personal items (e.g. Luggage)",1.408691835
+1966,"Personal items (e.g. Luggage)",1.585820896
+1967,"Personal items (e.g. Luggage)",1.672080773
+1968,"Personal items (e.g. Luggage)",1.905179982
+1969,"Personal items (e.g. Luggage)",2.133011414
+1970,"Personal items (e.g. Luggage)",2.296971027
+1971,"Personal items (e.g. Luggage)",2.588674276
+1972,"Personal items (e.g. Luggage)",2.85118525
+1973,"Personal items (e.g. Luggage)",3.190298507
+1974,"Personal items (e.g. Luggage)",3.493634767
+1975,"Personal items (e.g. Luggage)",3.896839333
+1976,"Personal items (e.g. Luggage)",4.399473222
+1977,"Personal items (e.g. Luggage)",4.77524144
+1978,"Personal items (e.g. Luggage)",5.010755048
+1979,"Personal items (e.g. Luggage)",4.91022827
+1980,"Personal items (e.g. Luggage)",4.546532046
+1981,"Personal items (e.g. Luggage)",4.315408253
+1982,"Personal items (e.g. Luggage)",4.098770852
+1983,"Personal items (e.g. Luggage)",4.737489025
+1984,"Personal items (e.g. Luggage)",5.279192274
+1985,"Personal items (e.g. Luggage)",5.68546971
+1986,"Personal items (e.g. Luggage)",6.324626866
+1987,"Personal items (e.g. Luggage)",7.122256365
+1988,"Personal items (e.g. Luggage)",7.613037752
+1989,"Personal items (e.g. Luggage)",8.492317823
+1990,"Personal items (e.g. Luggage)",8.51404741
+1991,"Personal items (e.g. Luggage)",8.737489025
+1992,"Personal items (e.g. Luggage)",9.278972783
+1993,"Personal items (e.g. Luggage)",9.556409131
+1994,"Personal items (e.g. Luggage)",9.59547849
+1995,"Personal items (e.g. Luggage)",9.566725198
+1996,"Personal items (e.g. Luggage)",9.70500439
+1997,"Personal items (e.g. Luggage)",9.731343284
+1998,"Personal items (e.g. Luggage)",10.31321335
+1999,"Personal items (e.g. Luggage)",11.51887621
+2000,"Personal items (e.g. Luggage)",12.78731343
+2001,"Personal items (e.g. Luggage)",12.18042142
+2002,"Personal items (e.g. Luggage)",12.53841089
+2003,"Personal items (e.g. Luggage)",13.91088674
+2004,"Personal items (e.g. Luggage)",15.16988586
+2005,"Personal items (e.g. Luggage)",16.74890255
+2006,"Personal items (e.g. Luggage)",18.8334065
+2007,"Personal items (e.g. Luggage)",20.59679543
+2008,"Personal items (e.g. Luggage)",20.41110623
+2009,"Personal items (e.g. Luggage)",19.65605795
+2010,"Personal items (e.g. Luggage)",20.88015803
+2011,"Personal items (e.g. Luggage)",22.63871817
+2012,"Personal items (e.g. Luggage)",23.3358209
+2013,"Personal items (e.g. Luggage)",23.62050044
+2014,"Personal items (e.g. Luggage)",23.95456541
+2015,"Personal items (e.g. Luggage)",24.45588235
+2016,"Personal items (e.g. Luggage)",25.08011414
+2017,"Personal items (e.g. Luggage)",25.27809482
+2018,"Personal items (e.g. Luggage)",26.09218613
+2019,"Personal items (e.g. Luggage)",26.70149254
+2020,"Personal items (e.g. Luggage)",21.63148842
+1959,"Communication equipment",1
+1960,"Communication equipment",1.083333333
+1961,"Communication equipment",1.138888889
+1962,"Communication equipment",1.222222222
+1963,"Communication equipment",1.333333333
+1964,"Communication equipment",1.5
+1965,"Communication equipment",1.611111111
+1966,"Communication equipment",1.833333333
+1967,"Communication equipment",1.944444444
+1968,"Communication equipment",2.166666667
+1969,"Communication equipment",2.222222222
+1970,"Communication equipment",2.333333333
+1971,"Communication equipment",2.5
+1972,"Communication equipment",2.722222222
+1973,"Communication equipment",3.111111111
+1974,"Communication equipment",3.472222222
+1975,"Communication equipment",3.805555556
+1976,"Communication equipment",4.277777778
+1977,"Communication equipment",4.833333333
+1978,"Communication equipment",16.86111111
+1979,"Communication equipment",41.97222222
+1980,"Communication equipment",72.52777778
+1981,"Communication equipment",108.8333333
+1982,"Communication equipment",133.2222222
+1983,"Communication equipment",136.0833333
+1984,"Communication equipment",138.1944444
+1985,"Communication equipment",135.5277778
+1986,"Communication equipment",139.5833333
+1987,"Communication equipment",145.1111111
+1988,"Communication equipment",159.6111111
+1989,"Communication equipment",180.5277778
+1990,"Communication equipment",198.0555556
+1991,"Communication equipment",208.2222222
+1992,"Communication equipment",227.6388889
+1993,"Communication equipment",255.75
+1994,"Communication equipment",297.2777778
+1995,"Communication equipment",334.5555556
+1996,"Communication equipment",376.5
+1997,"Communication equipment",415.1666667
+1998,"Communication equipment",464.1944444
+1999,"Communication equipment",534
+2000,"Communication equipment",612.75
+2001,"Communication equipment",648.7777778
+2002,"Communication equipment",693.6944444
+2003,"Communication equipment",837.8055556
+2004,"Communication equipment",959.9722222
+2005,"Communication equipment",1021.166667
+2006,"Communication equipment",1247.111111
+2007,"Communication equipment",1457.111111
+2008,"Communication equipment",1601.833333
+2009,"Communication equipment",1777.111111
+2010,"Communication equipment",2011.861111
+2011,"Communication equipment",2161.583333
+2012,"Communication equipment",2461.611111
+2013,"Communication equipment",2626.916667
+2014,"Communication equipment",2986.694444
+2015,"Communication equipment",3250.944444
+2016,"Communication equipment",3204.638889
+2017,"Communication equipment",3362.305556
+2018,"Communication equipment",3430.027778
+2019,"Communication equipment",3388.416667
+2020,"Communication equipment",2976.70068
+1959,"Food and beverages*",1
+1960,"Food and beverages*",1.018118041
+1961,"Food and beverages*",1.039238764
+1962,"Food and beverages*",1.050220799
+1963,"Food and beverages*",1.068802217
+1964,"Food and beverages*",1.131260802
+1965,"Food and beverages*",1.217472093
+1966,"Food and beverages*",1.321560468
+1967,"Food and beverages*",1.352500151
+1968,"Food and beverages*",1.450314401
+1969,"Food and beverages*",1.550014596
+1970,"Food and beverages*",1.675626833
+1971,"Food and beverages*",1.71626963
+1972,"Food and beverages*",1.829083394
+1973,"Food and beverages*",2.031273314
+1974,"Food and beverages*",2.3017372
+1975,"Food and beverages*",2.524542763
+1976,"Food and beverages*",2.699495382
+1977,"Food and beverages*",2.90156019
+1978,"Food and beverages*",3.171727516
+1979,"Food and beverages*",3.526303595
+1980,"Food and beverages*",3.854958366
+1981,"Food and beverages*",4.108902862
+1982,"Food and beverages*",4.287998072
+1983,"Food and beverages*",4.43325286
+1984,"Food and beverages*",4.684426362
+1985,"Food and beverages*",4.862330694
+1986,"Food and beverages*",5.075808477
+1987,"Food and beverages*",5.223319911
+1988,"Food and beverages*",5.541951837
+1989,"Food and beverages*",5.921221276
+1990,"Food and beverages*",6.324882881
+1991,"Food and beverages*",6.51485355
+1992,"Food and beverages*",6.572451311
+1993,"Food and beverages*",6.716969329
+1994,"Food and beverages*",7.011547355
+1995,"Food and beverages*",7.196592326
+1996,"Food and beverages*",7.465119296
+1997,"Food and beverages*",7.65062301
+1998,"Food and beverages*",7.823420927
+1999,"Food and beverages*",8.247100418
+2000,"Food and beverages*",8.584054271
+2001,"Food and beverages*",8.938134537
+2002,"Food and beverages*",9.089542971
+2003,"Food and beverages*",9.51920466
+2004,"Food and beverages*",10.06445574
+2005,"Food and beverages*",10.66289787
+2006,"Food and beverages*",11.15003684
+2007,"Food and beverages*",11.76446547
+2008,"Food and beverages*",12.3409945
+2009,"Food and beverages*",12.40276729
+2010,"Food and beverages*",12.5776365
+2011,"Food and beverages*",13.14232161
+2012,"Food and beverages*",13.5610337
+2013,"Food and beverages*",13.86938329
+2014,"Food and beverages*",14.38749438
+2015,"Food and beverages*",14.73324313
+2016,"Food and beverages*",14.98009796
+2017,"Food and beverages*",15.4516721
+2018,"Food and beverages*",15.86670961
+2019,"Food and beverages*",16.274815
+2020,"Food and beverages*",18.16470934
+1959,"Alcoholic beverages*",1
+1960,"Alcoholic beverages*",1.021553589
+1961,"Alcoholic beverages*",1.033549656
+1962,"Alcoholic beverages*",1.101632252
+1963,"Alcoholic beverages*",1.14619469
+1964,"Alcoholic beverages*",1.199095379
+1965,"Alcoholic beverages*",1.250265487
+1966,"Alcoholic beverages*",1.334985251
+1967,"Alcoholic beverages*",1.392881023
+1968,"Alcoholic beverages*",1.552094395
+1969,"Alcoholic beverages*",1.732822026
+1970,"Alcoholic beverages*",1.939311701
+1971,"Alcoholic beverages*",2.168731563
+1972,"Alcoholic beverages*",2.344267453
+1973,"Alcoholic beverages*",2.518544739
+1974,"Alcoholic beverages*",2.779233038
+1975,"Alcoholic beverages*",3.025998033
+1976,"Alcoholic beverages*",3.220373648
+1977,"Alcoholic beverages*",3.471386431
+1978,"Alcoholic beverages*",3.74072763
+1979,"Alcoholic beverages*",4.212153392
+1980,"Alcoholic beverages*",4.712251721
+1981,"Alcoholic beverages*",5.10387414
+1982,"Alcoholic beverages*",5.453962635
+1983,"Alcoholic beverages*",5.790403147
+1984,"Alcoholic beverages*",5.876420846
+1985,"Alcoholic beverages*",6.24519174
+1986,"Alcoholic beverages*",6.555712881
+1987,"Alcoholic beverages*",6.570304818
+1988,"Alcoholic beverages*",6.777069813
+1989,"Alcoholic beverages*",7.119960669
+1990,"Alcoholic beverages*",7.755791544
+1991,"Alcoholic beverages*",8.001258604
+1992,"Alcoholic beverages*",7.755083579
+1993,"Alcoholic beverages*",7.950717797
+1994,"Alcoholic beverages*",8.387531957
+1995,"Alcoholic beverages*",8.652979351
+1996,"Alcoholic beverages*",9.231229105
+1997,"Alcoholic beverages*",9.691012783
+1998,"Alcoholic beverages*",10.22108161
+1999,"Alcoholic beverages*",11.04971485
+2000,"Alcoholic beverages*",12.1354179
+2001,"Alcoholic beverages*",12.82033432
+2002,"Alcoholic beverages*",13.27421829
+2003,"Alcoholic beverages*",13.48715831
+2004,"Alcoholic beverages*",14.04424779
+2005,"Alcoholic beverages*",14.56058997
+2006,"Alcoholic beverages*",15.45427729
+2007,"Alcoholic beverages*",16.08110128
+2008,"Alcoholic beverages*",16.18517207
+2009,"Alcoholic beverages*",16.27276303
+2010,"Alcoholic beverages*",16.97459194
+2011,"Alcoholic beverages*",17.32511308
+2012,"Alcoholic beverages*",17.96220256
+2013,"Alcoholic beverages*",18.12818092
+2014,"Alcoholic beverages*",18.88483776
+2015,"Alcoholic beverages*",19.73628319
+2016,"Alcoholic beverages*",20.6347296
+2017,"Alcoholic beverages*",21.4080236
+2018,"Alcoholic beverages*",22.39107178
+2019,"Alcoholic beverages*",23.15358899
+2020,"Alcoholic beverages*",26.24397488
+1959,"Animal feeds/Farm supplies",1
+1960,"Animal feeds/Farm supplies",0.879581152
+1961,"Animal feeds/Farm supplies",0.859996122
+1962,"Animal feeds/Farm supplies",0.770409153
+1963,"Animal feeds/Farm supplies",0.714368819
+1964,"Animal feeds/Farm supplies",0.64766337
+1965,"Animal feeds/Farm supplies",0.629047896
+1966,"Animal feeds/Farm supplies",0.638937367
+1967,"Animal feeds/Farm supplies",0.571068451
+1968,"Animal feeds/Farm supplies",0.557688579
+1969,"Animal feeds/Farm supplies",0.566802404
+1970,"Animal feeds/Farm supplies",0.60190033
+1971,"Animal feeds/Farm supplies",0.577079697
+1972,"Animal feeds/Farm supplies",0.689548187
+1973,"Animal feeds/Farm supplies",0.864843901
+1974,"Animal feeds/Farm supplies",0.923017258
+1975,"Animal feeds/Farm supplies",0.875896839
+1976,"Animal feeds/Farm supplies",0.919139034
+1977,"Animal feeds/Farm supplies",0.90052356
+1978,"Animal feeds/Farm supplies",0.942408377
+1979,"Animal feeds/Farm supplies",1.04401784
+1980,"Animal feeds/Farm supplies",0.956369983
+1981,"Animal feeds/Farm supplies",0.941632732
+1982,"Animal feeds/Farm supplies",0.875896839
+1983,"Animal feeds/Farm supplies",0.813651348
+1984,"Animal feeds/Farm supplies",0.788830716
+1985,"Animal feeds/Farm supplies",0.718247043
+1986,"Animal feeds/Farm supplies",0.6949777
+1987,"Animal feeds/Farm supplies",0.576304053
+1988,"Animal feeds/Farm supplies",0.567965872
+1989,"Animal feeds/Farm supplies",0.521039364
+1990,"Animal feeds/Farm supplies",0.496024821
+1991,"Animal feeds/Farm supplies",0.471204188
+1992,"Animal feeds/Farm supplies",0.446189645
+1993,"Animal feeds/Farm supplies",0.421175102
+1994,"Animal feeds/Farm supplies",0.396160558
+1995,"Animal feeds/Farm supplies",0.371339926
+1996,"Animal feeds/Farm supplies",0.346325383
+1997,"Animal feeds/Farm supplies",0.321504751
+1998,"Animal feeds/Farm supplies",0.296490207
+1999,"Animal feeds/Farm supplies",0.271281753
+2000,"Animal feeds/Farm supplies",0.246461121
+2001,"Animal feeds/Farm supplies",0.221252666
+2002,"Animal feeds/Farm supplies",0.217956176
+2003,"Animal feeds/Farm supplies",0.212914485
+2004,"Animal feeds/Farm supplies",0.263913128
+2005,"Animal feeds/Farm supplies",0.297459763
+2006,"Animal feeds/Farm supplies",0.360674811
+2007,"Animal feeds/Farm supplies",0.312778747
+2008,"Animal feeds/Farm supplies",0.302501454
+2009,"Animal feeds/Farm supplies",0.26759744
+2010,"Animal feeds/Farm supplies",0.299011053
+2011,"Animal feeds/Farm supplies",0.285825092
+2012,"Animal feeds/Farm supplies",0.298235408
+2013,"Animal feeds/Farm supplies",0.379678107
+2014,"Animal feeds/Farm supplies",0.456273027
+2015,"Animal feeds/Farm supplies",0.482644949
+2016,"Animal feeds/Farm supplies",0.386464999
+2017,"Animal feeds/Farm supplies",0.33604809
+2018,"Animal feeds/Farm supplies",0.338568935
+2019,"Animal feeds/Farm supplies",0.338956758
+2020,"Animal feeds/Farm supplies",0.361703727
+1959,"Clothing and footwear",1
+1960,"Clothing and footwear",1.022598926
+1961,"Clothing and footwear",1.047484354
+1962,"Clothing and footwear",1.098250628
+1963,"Clothing and footwear",1.128201843
+1964,"Clothing and footwear",1.225437343
+1965,"Clothing and footwear",1.287498152
+1966,"Clothing and footwear",1.41177746
+1967,"Clothing and footwear",1.480214852
+1968,"Clothing and footwear",1.626580594
+1969,"Clothing and footwear",1.747637116
+1970,"Clothing and footwear",1.791770561
+1971,"Clothing and footwear",1.933543586
+1972,"Clothing and footwear",2.108746859
+1973,"Clothing and footwear",2.335485143
+1974,"Clothing and footwear",2.460838713
+1975,"Clothing and footwear",2.636061696
+1976,"Clothing and footwear",2.845937023
+1977,"Clothing and footwear",3.126398265
+1978,"Clothing and footwear",3.521115656
+1979,"Clothing and footwear",3.799181984
+1980,"Clothing and footwear",4.060592322
+1981,"Clothing and footwear",4.461745429
+1982,"Clothing and footwear",4.602385059
+1983,"Clothing and footwear",4.984802641
+1984,"Clothing and footwear",5.42539792
+1985,"Clothing and footwear",5.789001133
+1986,"Clothing and footwear",6.197201005
+1987,"Clothing and footwear",6.612220963
+1988,"Clothing and footwear",7.025634455
+1989,"Clothing and footwear",7.505908441
+1990,"Clothing and footwear",7.697018676
+1991,"Clothing and footwear",7.84893313
+1992,"Clothing and footwear",8.327334549
+1993,"Clothing and footwear",8.635608338
+1994,"Clothing and footwear",8.966027694
+1995,"Clothing and footwear",9.116266693
+1996,"Clothing and footwear",9.443325285
+1997,"Clothing and footwear",9.756901395
+1998,"Clothing and footwear",10.1633174
+1999,"Clothing and footwear",10.6873109
+2000,"Clothing and footwear",11.07105899
+2001,"Clothing and footwear",10.95426009
+2002,"Clothing and footwear",10.99235204
+2003,"Clothing and footwear",11.24705071
+2004,"Clothing and footwear",11.72343173
+2005,"Clothing and footwear",12.24103878
+2006,"Clothing and footwear",12.61609422
+2007,"Clothing and footwear",12.75214113
+2008,"Clothing and footwear",12.51160499
+2009,"Clothing and footwear",11.98611344
+2010,"Clothing and footwear",12.48159464
+2011,"Clothing and footwear",13.11133889
+2012,"Clothing and footwear",13.60940226
+2013,"Clothing and footwear",13.81888336
+2014,"Clothing and footwear",14.22168235
+2015,"Clothing and footwear",14.53641157
+2016,"Clothing and footwear",14.83718524
+2017,"Clothing and footwear",14.97913566
+2018,"Clothing and footwear",15.54178288
+2019,"Clothing and footwear",15.90561277
+2020,"Clothing and footwear",13.17603235
+1959,"Motor vehicle (lubricants, oil, etc.)",1
+1960,"Motor vehicle (lubricants, oil, etc.)",1.064090063
+1961,"Motor vehicle (lubricants, oil, etc.)",1.064511125
+1962,"Motor vehicle (lubricants, oil, etc.)",1.116656325
+1963,"Motor vehicle (lubricants, oil, etc.)",1.148125166
+1964,"Motor vehicle (lubricants, oil, etc.)",1.203084833
+1965,"Motor vehicle (lubricants, oil, etc.)",1.307596844
+1966,"Motor vehicle (lubricants, oil, etc.)",1.421150607
+1967,"Motor vehicle (lubricants, oil, etc.)",1.515823065
+1968,"Motor vehicle (lubricants, oil, etc.)",1.645244216
+1969,"Motor vehicle (lubricants, oil, etc.)",1.813669001
+1970,"Motor vehicle (lubricants, oil, etc.)",1.943200957
+1971,"Motor vehicle (lubricants, oil, etc.)",2.052123039
+1972,"Motor vehicle (lubricants, oil, etc.)",2.163460686
+1973,"Motor vehicle (lubricants, oil, etc.)",2.493661909
+1974,"Motor vehicle (lubricants, oil, etc.)",3.202730254
+1975,"Motor vehicle (lubricants, oil, etc.)",3.519435334
+1976,"Motor vehicle (lubricants, oil, etc.)",3.815796472
+1977,"Motor vehicle (lubricants, oil, etc.)",4.160446769
+1978,"Motor vehicle (lubricants, oil, etc.)",4.441272937
+1979,"Motor vehicle (lubricants, oil, etc.)",5.872085808
+1980,"Motor vehicle (lubricants, oil, etc.)",7.684513784
+1981,"Motor vehicle (lubricants, oil, etc.)",8.679970747
+1982,"Motor vehicle (lubricants, oil, etc.)",8.343675206
+1983,"Motor vehicle (lubricants, oil, etc.)",8.251108058
+1984,"Motor vehicle (lubricants, oil, etc.)",8.382966936
+1985,"Motor vehicle (lubricants, oil, etc.)",8.616678486
+1986,"Motor vehicle (lubricants, oil, etc.)",7.096223739
+1987,"Motor vehicle (lubricants, oil, etc.)",7.566261856
+1988,"Motor vehicle (lubricants, oil, etc.)",7.835785835
+1989,"Motor vehicle (lubricants, oil, etc.)",8.750642674
+1990,"Motor vehicle (lubricants, oil, etc.)",9.878556866
+1991,"Motor vehicle (lubricants, oil, etc.)",9.649122418
+1992,"Motor vehicle (lubricants, oil, etc.)",10.00480897
+1993,"Motor vehicle (lubricants, oil, etc.)",10.15138286
+1994,"Motor vehicle (lubricants, oil, etc.)",10.32636734
+1995,"Motor vehicle (lubricants, oil, etc.)",10.67367698
+1996,"Motor vehicle (lubricants, oil, etc.)",11.56761369
+1997,"Motor vehicle (lubricants, oil, etc.)",11.91627515
+1998,"Motor vehicle (lubricants, oil, etc.)",10.70711816
+1999,"Motor vehicle (lubricants, oil, etc.)",11.89522205
+2000,"Motor vehicle (lubricants, oil, etc.)",14.9462592
+2001,"Motor vehicle (lubricants, oil, etc.)",14.40344384
+2002,"Motor vehicle (lubricants, oil, etc.)",13.61676713
+2003,"Motor vehicle (lubricants, oil, etc.)",15.86530449
+2004,"Motor vehicle (lubricants, oil, etc.)",18.91461307
+2005,"Motor vehicle (lubricants, oil, etc.)",23.17436397
+2006,"Motor vehicle (lubricants, oil, etc.)",26.23222675
+2007,"Motor vehicle (lubricants, oil, etc.)",28.35912153
+2008,"Motor vehicle (lubricants, oil, etc.)",31.99672015
+2009,"Motor vehicle (lubricants, oil, etc.)",23.38352096
+2010,"Motor vehicle (lubricants, oil, etc.)",27.66937771
+2011,"Motor vehicle (lubricants, oil, etc.)",34.28656591
+2012,"Motor vehicle (lubricants, oil, etc.)",35.26358479
+2013,"Motor vehicle (lubricants, oil, etc.)",34.83702686
+2014,"Motor vehicle (lubricants, oil, etc.)",33.4191561
+2015,"Motor vehicle (lubricants, oil, etc.)",25.67950536
+2016,"Motor vehicle (lubricants, oil, etc.)",22.97260881
+2017,"Motor vehicle (lubricants, oil, etc.)",25.82209024
+2018,"Motor vehicle (lubricants, oil, etc.)",29.13735484
+2019,"Motor vehicle (lubricants, oil, etc.)",28.04729191
+2020,"Motor vehicle (lubricants, oil, etc.)",21.20411058
+1959,"Fuel oil",1
+1960,"Fuel oil",0.949173683
+1961,"Fuel oil",0.92647334
+1962,"Fuel oil",0.927658248
+1963,"Fuel oil",0.990396009
+1964,"Fuel oil",1.019582164
+1965,"Fuel oil",1.092734643
+1966,"Fuel oil",1.153352042
+1967,"Fuel oil",1.191393826
+1968,"Fuel oil",1.161646399
+1969,"Fuel oil",1.124540069
+1970,"Fuel oil",1.088743374
+1971,"Fuel oil",1.121733708
+1972,"Fuel oil",1.244091051
+1973,"Fuel oil",1.54512005
+1974,"Fuel oil",1.925662613
+1975,"Fuel oil",2.074711568
+1976,"Fuel oil",2.486311194
+1977,"Fuel oil",2.714748987
+1978,"Fuel oil",2.831618335
+1979,"Fuel oil",3.528406611
+1980,"Fuel oil",3.793888369
+1981,"Fuel oil",3.872528843
+1982,"Fuel oil",3.548487683
+1983,"Fuel oil",3.336513876
+1984,"Fuel oil",3.400623636
+1985,"Fuel oil",3.324415341
+1986,"Fuel oil",2.778609292
+1987,"Fuel oil",2.747427502
+1988,"Fuel oil",2.857561584
+1989,"Fuel oil",2.924290614
+1990,"Fuel oil",3.182850016
+1991,"Fuel oil",3.062425943
+1992,"Fuel oil",3.029248519
+1993,"Fuel oil",3.08431556
+1994,"Fuel oil",3.177736202
+1995,"Fuel oil",3.241596508
+1996,"Fuel oil",3.554973495
+1997,"Fuel oil",3.301153726
+1998,"Fuel oil",2.885625195
+1999,"Fuel oil",3.081945744
+2000,"Fuel oil",3.968007484
+2001,"Fuel oil",3.866666667
+2002,"Fuel oil",3.56445276
+2003,"Fuel oil",4.349236046
+2004,"Fuel oil",4.828624883
+2005,"Fuel oil",5.572809479
+2006,"Fuel oil",5.918054256
+2007,"Fuel oil",6.392890552
+2008,"Fuel oil",7.517118803
+2009,"Fuel oil",5.79669473
+2010,"Fuel oil",6.131462426
+2011,"Fuel oil",6.738821328
+2012,"Fuel oil",6.018334892
+2013,"Fuel oil",6.299220455
+2014,"Fuel oil",6.571188026
+2015,"Fuel oil",4.925038977
+2016,"Fuel oil",3.962394761
+2017,"Fuel oil",4.413719988
+2018,"Fuel oil",5.123604615
+2019,"Fuel oil",4.749610228
+2020,"Fuel oil",4.062669034
+1959,"Medical products",1
+1960,"Medical products",1.096478762
+1961,"Medical products",1.205984526
+1962,"Medical products",1.303252803
+1963,"Medical products",1.383467551
+1964,"Medical products",1.419390494
+1965,"Medical products",1.476946155
+1966,"Medical products",1.540896889
+1967,"Medical products",1.645270804
+1968,"Medical products",1.814148113
+1969,"Medical products",1.987525659
+1970,"Medical products",2.299778936
+1971,"Medical products",2.438023054
+1972,"Medical products",2.656876678
+1973,"Medical products",2.872098532
+1974,"Medical products",3.116216643
+1975,"Medical products",3.372888047
+1976,"Medical products",3.679693668
+1977,"Medical products",3.906916153
+1978,"Medical products",4.49013106
+1979,"Medical products",5.213721775
+1980,"Medical products",5.918206221
+1981,"Medical products",6.722169588
+1982,"Medical products",7.420101058
+1983,"Medical products",8.486341386
+1984,"Medical products",9.574688141
+1985,"Medical products",10.58258329
+1986,"Medical products",11.75011843
+1987,"Medical products",13.03158061
+1988,"Medical products",14.49628928
+1989,"Medical products",16.39231012
+1990,"Medical products",18.66982473
+1991,"Medical products",20.55937155
+1992,"Medical products",21.96786673
+1993,"Medical products",23.36680878
+1994,"Medical products",24.96770883
+1995,"Medical products",26.87786199
+1996,"Medical products",29.44607611
+1997,"Medical products",32.73993368
+1998,"Medical products",37.83096479
+1999,"Medical products",44.22588031
+2000,"Medical products",50.21316911
+2001,"Medical products",57.16287699
+2002,"Medical products",63.21340597
+2003,"Medical products",69.53229117
+2004,"Medical products",74.63319122
+2005,"Medical products",78.49139428
+2006,"Medical products",87.23093321
+2007,"Medical products",92.65719248
+2008,"Medical products",95.60168956
+2009,"Medical products",99.75351334
+2010,"Medical products",102.9939997
+2011,"Medical products",107.9369967
+2012,"Medical products",111.9346281
+2013,"Medical products",117.7952787
+2014,"Medical products",129.3426496
+2015,"Medical products",140.7769619
+2016,"Medical products",147.6203221
+2017,"Medical products",155.3445444
+2018,"Medical products",161.5522659
+2019,"Medical products",173.2360651
+2020,"Medical products",185.0187067
+1959,"Recreational items",1
+1960,"Recreational items",1.091189356
+1961,"Recreational items",1.160311537
+1962,"Recreational items",1.273730326
+1963,"Recreational items",1.40337498
+1964,"Recreational items",1.567093948
+1965,"Recreational items",1.726837579
+1966,"Recreational items",1.942966088
+1967,"Recreational items",2.053383093
+1968,"Recreational items",2.286792147
+1969,"Recreational items",2.471523609
+1970,"Recreational items",2.659337985
+1971,"Recreational items",2.838228136
+1972,"Recreational items",3.121126075
+1973,"Recreational items",3.536427065
+1974,"Recreational items",3.962680513
+1975,"Recreational items",4.26496836
+1976,"Recreational items",4.769917248
+1977,"Recreational items",5.105224728
+1978,"Recreational items",5.73503164
+1979,"Recreational items",6.457731624
+1980,"Recreational items",7.131754016
+1981,"Recreational items",8.047947428
+1982,"Recreational items",8.644815836
+1983,"Recreational items",9.362972578
+1984,"Recreational items",10.22196982
+1985,"Recreational items",10.9562713
+1986,"Recreational items",11.50186597
+1987,"Recreational items",12.70030829
+1988,"Recreational items",13.82638325
+1989,"Recreational items",15.30910271
+1990,"Recreational items",16.52717832
+1991,"Recreational items",17.38901509
+1992,"Recreational items",18.58599708
+1993,"Recreational items",19.70209314
+1994,"Recreational items",21.16225864
+1995,"Recreational items",22.35802369
+1996,"Recreational items",23.63564822
+1997,"Recreational items",24.77608308
+1998,"Recreational items",26.25117638
+1999,"Recreational items",28.12088269
+2000,"Recreational items",29.81291579
+2001,"Recreational items",30.73600519
+2002,"Recreational items",31.91854616
+2003,"Recreational items",32.70963816
+2004,"Recreational items",34.31104981
+2005,"Recreational items",36.55606036
+2006,"Recreational items",38.61536589
+2007,"Recreational items",40.40004868
+2008,"Recreational items",41.49245497
+2009,"Recreational items",40.79936719
+2010,"Recreational items",42.13905565
+2011,"Recreational items",43.76821353
+2012,"Recreational items",45.47338958
+2013,"Recreational items",47.04024014
+2014,"Recreational items",49.26805127
+2015,"Recreational items",51.58932338
+2016,"Recreational items",53.33855265
+2017,"Recreational items",55.32476067
+2018,"Recreational items",56.96503326
+2019,"Recreational items",59.45951647
+2020,"Recreational items",64.17726591
+1959,"Household supplies",1
+1960,"Household supplies",1.063327948
+1961,"Household supplies",1.161135472
+1962,"Household supplies",1.268682206
+1963,"Household supplies",1.34096469
+1964,"Household supplies",1.464066467
+1965,"Household supplies",1.58121394
+1966,"Household supplies",1.746226633
+1967,"Household supplies",1.837572121
+1968,"Household supplies",1.965289638
+1969,"Household supplies",2.035402723
+1970,"Household supplies",2.122455574
+1971,"Household supplies",2.151165474
+1972,"Household supplies",2.286914378
+1973,"Household supplies",2.557027464
+1974,"Household supplies",2.851280868
+1975,"Household supplies",3.10034618
+1976,"Household supplies",3.347657512
+1977,"Household supplies",3.639926148
+1978,"Household supplies",4.149088391
+1979,"Household supplies",4.785875837
+1980,"Household supplies",5.377198246
+1981,"Household supplies",5.948072929
+1982,"Household supplies",6.338056774
+1983,"Household supplies",6.786983614
+1984,"Household supplies",7.379829218
+1985,"Household supplies",7.763904916
+1986,"Household supplies",8.246526656
+1987,"Household supplies",8.567505193
+1988,"Household supplies",9.11488576
+1989,"Household supplies",9.589153012
+1990,"Household supplies",10.01264713
+1991,"Household supplies",10.26402031
+1992,"Household supplies",10.80743134
+1993,"Household supplies",11.46166628
+1994,"Household supplies",12.32887145
+1995,"Household supplies",12.99824602
+1996,"Household supplies",13.73117932
+1997,"Household supplies",14.3762751
+1998,"Household supplies",14.712024
+1999,"Household supplies",15.49148396
+2000,"Household supplies",16.00770829
+2001,"Household supplies",16.42363259
+2002,"Household supplies",16.75831987
+2003,"Household supplies",17.3550427
+2004,"Household supplies",18.01933995
+2005,"Household supplies",18.83267944
+2006,"Household supplies",19.54770367
+2007,"Household supplies",19.66471267
+2008,"Household supplies",19.79192246
+2009,"Household supplies",19.44537272
+2010,"Household supplies",19.97401339
+2011,"Household supplies",20.80936995
+2012,"Household supplies",21.5385645
+2013,"Household supplies",21.99598431
+2014,"Household supplies",22.65183476
+2015,"Household supplies",23.36192015
+2016,"Household supplies",24.08492961
+2017,"Household supplies",25.03383337
+2018,"Household supplies",26.03558735
+2019,"Household supplies",27.12827141
+2020,"Household supplies",29.11844082
+1959,"Personal care products",1
+1960,"Personal care products",1.103692202
+1961,"Personal care products",1.212387854
+1962,"Personal care products",1.332643202
+1963,"Personal care products",1.424861974
+1964,"Personal care products",1.533816425
+1965,"Personal care products",1.662353347
+1966,"Personal care products",1.836266391
+1967,"Personal care products",1.988957902
+1968,"Personal care products",2.165890269
+1969,"Personal care products",2.317805383
+1970,"Personal care products",2.463768116
+1971,"Personal care products",2.579968944
+1972,"Personal care products",2.775621118
+1973,"Personal care products",3.094634231
+1974,"Personal care products",3.460231194
+1975,"Personal care products",3.823240166
+1976,"Personal care products",4.211611456
+1977,"Personal care products",4.77199793
+1978,"Personal care products",5.31357833
+1979,"Personal care products",5.913302277
+1980,"Personal care products",6.454278813
+1981,"Personal care products",7.058833678
+1982,"Personal care products",7.437888199
+1983,"Personal care products",8.185041408
+1984,"Personal care products",9.060041408
+1985,"Personal care products",9.748360939
+1986,"Personal care products",10.47731194
+1987,"Personal care products",11.26432022
+1988,"Personal care products",11.93995859
+1989,"Personal care products",12.74171843
+1990,"Personal care products",13.54365079
+1991,"Personal care products",13.88699103
+1992,"Personal care products",14.27527605
+1993,"Personal care products",15.16390614
+1994,"Personal care products",16.25664251
+1995,"Personal care products",17.31306073
+1996,"Personal care products",18.44332298
+1997,"Personal care products",19.46368185
+1998,"Personal care products",20.67382678
+1999,"Personal care products",22.23887164
+2000,"Personal care products",23.63966529
+2001,"Personal care products",24.51397516
+2002,"Personal care products",25.24447895
+2003,"Personal care products",26.74482402
+2004,"Personal care products",28.56677019
+2005,"Personal care products",30.36671843
+2006,"Personal care products",32.37879572
+2007,"Personal care products",34.14518634
+2008,"Personal care products",35.20859213
+2009,"Personal care products",35.1452726
+2010,"Personal care products",36.58385093
+2011,"Personal care products",38.0523637
+2012,"Personal care products",39.11697723
+2013,"Personal care products",40.05745342
+2014,"Personal care products",41.42934783
+2015,"Personal care products",43.20427881
+2016,"Personal care products",44.50836784
+2017,"Personal care products",45.66347481
+2018,"Personal care products",47.35541753
+2019,"Personal care products",49.21549344
+2020,"Personal care products",50.15246264
+1959,"Tobacco",1
+1960,"Tobacco",1.048367409
+1961,"Tobacco",1.089563625
+1962,"Tobacco",1.101769912
+1963,"Tobacco",1.144339335
+1964,"Tobacco",1.154104364
+1965,"Tobacco",1.234665853
+1966,"Tobacco",1.301342691
+1967,"Tobacco",1.362221544
+1968,"Tobacco",1.43774794
+1969,"Tobacco",1.494354593
+1970,"Tobacco",1.646628013
+1971,"Tobacco",1.729935917
+1972,"Tobacco",1.860390601
+1973,"Tobacco",2.020292951
+1974,"Tobacco",2.151167226
+1975,"Tobacco",2.299054013
+1976,"Tobacco",2.561298444
+1977,"Tobacco",2.590784254
+1978,"Tobacco",2.789327128
+1979,"Tobacco",2.927258163
+1980,"Tobacco",3.182789136
+1981,"Tobacco",3.483368935
+1982,"Tobacco",3.70811718
+1983,"Tobacco",4.198275862
+1984,"Tobacco",4.461779066
+1985,"Tobacco",4.70113671
+1986,"Tobacco",4.906431187
+1987,"Tobacco",5.270979554
+1988,"Tobacco",5.301304547
+1989,"Tobacco",5.891211474
+1990,"Tobacco",6.254348489
+1991,"Tobacco",6.470704913
+1992,"Tobacco",7.325030516
+1993,"Tobacco",7.43076747
+1994,"Tobacco",7.221277083
+1995,"Tobacco",7.507628929
+1996,"Tobacco",7.845476045
+1997,"Tobacco",8.216127556
+1998,"Tobacco",8.607873055
+1999,"Tobacco",9.999465975
+2000,"Tobacco",10.45045011
+2001,"Tobacco",10.63556607
+2002,"Tobacco",10.70212847
+2003,"Tobacco",10.75049588
+2004,"Tobacco",11.23951022
+2005,"Tobacco",11.69911504
+2006,"Tobacco",12.35882667
+2007,"Tobacco",12.85634727
+2008,"Tobacco",12.84814617
+2009,"Tobacco",14.3938816
+2010,"Tobacco",14.9369469
+2011,"Tobacco",14.81148917
+2012,"Tobacco",14.49500305
+2013,"Tobacco",14.16497559
+2014,"Tobacco",13.98348337
+2015,"Tobacco",14.34436985
+2016,"Tobacco",14.6050885
+2017,"Tobacco",14.84646781
+2018,"Tobacco",15.09814617
+2019,"Tobacco",15.22318431
+2020,"Tobacco",15.87626811
+1959,"Magazines, newspapers, and stationery",1
+1960,"Magazines, newspapers, and stationery",1.033247328
+1961,"Magazines, newspapers, and stationery",0.993144121
+1962,"Magazines, newspapers, and stationery",1.109251751
+1963,"Magazines, newspapers, and stationery",1.19071139
+1964,"Magazines, newspapers, and stationery",1.243273129
+1965,"Magazines, newspapers, and stationery",1.329303354
+1966,"Magazines, newspapers, and stationery",1.57206045
+1967,"Magazines, newspapers, and stationery",1.61186878
+1968,"Magazines, newspapers, and stationery",1.724732768
+1969,"Magazines, newspapers, and stationery",1.89495024
+1970,"Magazines, newspapers, and stationery",2.033468485
+1971,"Magazines, newspapers, and stationery",2.079911537
+1972,"Magazines, newspapers, and stationery",2.258901585
+1973,"Magazines, newspapers, and stationery",2.484039808
+1974,"Magazines, newspapers, and stationery",2.711389606
+1975,"Magazines, newspapers, and stationery",2.917729451
+1976,"Magazines, newspapers, and stationery",3.180759307
+1977,"Magazines, newspapers, and stationery",3.506966458
+1978,"Magazines, newspapers, and stationery",4.144489495
+1979,"Magazines, newspapers, and stationery",4.837080722
+1980,"Magazines, newspapers, and stationery",5.347880575
+1981,"Magazines, newspapers, and stationery",5.847843715
+1982,"Magazines, newspapers, and stationery",6.203464799
+1983,"Magazines, newspapers, and stationery",6.602359012
+1984,"Magazines, newspapers, and stationery",7.228308146
+1985,"Magazines, newspapers, and stationery",7.480575009
+1986,"Magazines, newspapers, and stationery",7.834647991
+1987,"Magazines, newspapers, and stationery",8.491780317
+1988,"Magazines, newspapers, and stationery",9.336527829
+1989,"Magazines, newspapers, and stationery",10.02491707
+1990,"Magazines, newspapers, and stationery",10.7607077
+1991,"Magazines, newspapers, and stationery",11.14360487
+1992,"Magazines, newspapers, and stationery",11.43332105
+1993,"Magazines, newspapers, and stationery",12.04946554
+1994,"Magazines, newspapers, and stationery",12.91116845
+1995,"Magazines, newspapers, and stationery",13.58134906
+1996,"Magazines, newspapers, and stationery",14.21076299
+1997,"Magazines, newspapers, and stationery",14.80442315
+1998,"Magazines, newspapers, and stationery",15.30062661
+1999,"Magazines, newspapers, and stationery",16.0154073
+2000,"Magazines, newspapers, and stationery",16.68020641
+2001,"Magazines, newspapers, and stationery",16.23066716
+2002,"Magazines, newspapers, and stationery",16.15967564
+2003,"Magazines, newspapers, and stationery",16.25521563
+2004,"Magazines, newspapers, and stationery",16.7460376
+2005,"Magazines, newspapers, and stationery",17.10446001
+2006,"Magazines, newspapers, and stationery",17.41924069
+2007,"Magazines, newspapers, and stationery",17.02130483
+2008,"Magazines, newspapers, and stationery",16.21083671
+2009,"Magazines, newspapers, and stationery",15.27534095
+2010,"Magazines, newspapers, and stationery",15.3965352
+2011,"Magazines, newspapers, and stationery",15.44622189
+2012,"Magazines, newspapers, and stationery",15.24268338
+2013,"Magazines, newspapers, and stationery",15.8844084
+2014,"Magazines, newspapers, and stationery",16.57058607
+2015,"Magazines, newspapers, and stationery",17.23671213
+2016,"Magazines, newspapers, and stationery",18.54087726
+2017,"Magazines, newspapers, and stationery",20.02167342
+2018,"Magazines, newspapers, and stationery",21.62956137
+2019,"Magazines, newspapers, and stationery",23.83509031
+2020,"Magazines, newspapers, and stationery",27.04077871
+1959,"Net expenditures abroad",1
+1960,"Net expenditures abroad",0.957247132
+1961,"Net expenditures abroad",0.892596455
+1962,"Net expenditures abroad",0.943691345
+1963,"Net expenditures abroad",0.918665276
+1964,"Net expenditures abroad",1.025026069
+1965,"Net expenditures abroad",1.117831074
+1966,"Net expenditures abroad",1.346193952
+1967,"Net expenditures abroad",1.437956204
+1968,"Net expenditures abroad",1.55995829
+1969,"Net expenditures abroad",1.724713243
+1970,"Net expenditures abroad",1.838373306
+1971,"Net expenditures abroad",1.945776851
+1972,"Net expenditures abroad",1.772419187
+1973,"Net expenditures abroad",1.408759124
+1974,"Net expenditures abroad",1.259384776
+1975,"Net expenditures abroad",1.103232534
+1976,"Net expenditures abroad",0.957247132
+1977,"Net expenditures abroad",1.051094891
+1978,"Net expenditures abroad",1.290667362
+1979,"Net expenditures abroad",1.474452555
+1980,"Net expenditures abroad",1.870959333
+1981,"Net expenditures abroad",2.139468196
+1982,"Net expenditures abroad",2.777372263
+1983,"Net expenditures abroad",2.82012513
+1984,"Net expenditures abroad",2.941084463
+1985,"Net expenditures abroad",3.295620438
+1986,"Net expenditures abroad",3.105578728
+1987,"Net expenditures abroad",3.206465068
+1988,"Net expenditures abroad",2.605578728
+1989,"Net expenditures abroad",2.815693431
+1990,"Net expenditures abroad",2.702554745
+1991,"Net expenditures abroad",2.449947862
+1992,"Net expenditures abroad",1.001042753
+1993,"Net expenditures abroad",1.163972888
+1994,"Net expenditures abroad",1.392335766
+1995,"Net expenditures abroad",1.620437956
+1996,"Net expenditures abroad",1.776850886
+1997,"Net expenditures abroad",2.813607925
+1998,"Net expenditures abroad",3.089937435
+1999,"Net expenditures abroad",3.569343066
+2000,"Net expenditures abroad",3.689259645
+2001,"Net expenditures abroad",3.918665276
+2002,"Net expenditures abroad",4.440563087
+2003,"Net expenditures abroad",5.683785193
+2004,"Net expenditures abroad",6.0862878
+2005,"Net expenditures abroad",6.194212722
+2006,"Net expenditures abroad",6.67101147
+2007,"Net expenditures abroad",7.609489051
+2008,"Net expenditures abroad",8.255735141
+2009,"Net expenditures abroad",9.381386861
+2010,"Net expenditures abroad",8.729144943
+2011,"Net expenditures abroad",10.00834202
+2012,"Net expenditures abroad",9.266944734
+2013,"Net expenditures abroad",8.240615224
+2014,"Net expenditures abroad",8.294577685
+2015,"Net expenditures abroad",7.626955162
+2016,"Net expenditures abroad",7.3318561
+2017,"Net expenditures abroad",7.258342023
+2018,"Net expenditures abroad",10.82612096
+2019,"Net expenditures abroad",11.83159541
+2020,"Net expenditures abroad",12.01347066
+1959,"Housing expenditure",1
+1960,"Housing expenditure",1.068765464
+1961,"Housing expenditure",1.136546939
+1962,"Housing expenditure",1.214481131
+1963,"Housing expenditure",1.284725422
+1964,"Housing expenditure",1.359724711
+1965,"Housing expenditure",1.447595484
+1966,"Housing expenditure",1.535944032
+1967,"Housing expenditure",1.635036828
+1968,"Housing expenditure",1.759030799
+1969,"Housing expenditure",1.915809231
+1970,"Housing expenditure",2.071268094
+1971,"Housing expenditure",2.268862156
+1972,"Housing expenditure",2.47373091
+1973,"Housing expenditure",2.707141029
+1974,"Housing expenditure",2.958689532
+1975,"Housing expenditure",3.240212724
+1976,"Housing expenditure",3.549964451
+1977,"Housing expenditure",3.943975201
+1978,"Housing expenditure",4.424986491
+1979,"Housing expenditure",4.96034468
+1980,"Housing expenditure",5.609339362
+1981,"Housing expenditure",6.323658391
+1982,"Housing expenditure",6.893848648
+1983,"Housing expenditure",7.444831215
+1984,"Housing expenditure",8.137695874
+1985,"Housing expenditure",8.978147485
+1986,"Housing expenditure",9.794824105
+1987,"Housing expenditure",10.4996957
+1988,"Housing expenditure",11.31485368
+1989,"Housing expenditure",12.08172226
+1990,"Housing expenditure",12.98231095
+1991,"Housing expenditure",13.6847368
+1992,"Housing expenditure",14.43465006
+1993,"Housing expenditure",15.16104997
+1994,"Housing expenditure",16.14105736
+1995,"Housing expenditure",17.20155277
+1996,"Housing expenditure",18.09692006
+1997,"Housing expenditure",19.09271109
+1998,"Housing expenditure",20.34336661
+1999,"Housing expenditure",21.58130421
+2000,"Housing expenditure",22.98979609
+2001,"Housing expenditure",24.69662998
+2002,"Housing expenditure",25.78473395
+2003,"Housing expenditure",26.78142366
+2004,"Housing expenditure",28.26259989
+2005,"Housing expenditure",30.31567841
+2006,"Housing expenditure",32.21959446
+2007,"Housing expenditure",33.67175156
+2008,"Housing expenditure",35.02294457
+2009,"Housing expenditure",36.11578648
+2010,"Housing expenditure",36.4930296
+2011,"Housing expenditure",37.66835594
+2012,"Housing expenditure",38.76831328
+2013,"Housing expenditure",39.75611865
+2014,"Housing expenditure",41.56996843
+2015,"Housing expenditure",44.15122714
+2016,"Housing expenditure",46.4677701
+2017,"Housing expenditure",48.53502261
+2018,"Housing expenditure",50.60166084
+2019,"Housing expenditure",53.02339391
+2020,"Housing expenditure",55.88148953
+1959,"Household utilities",1
+1960,"Household utilities",1.09550846
+1961,"Household utilities",1.163190736
+1962,"Household utilities",1.247400079
+1963,"Household utilities",1.319776266
+1964,"Household utilities",1.392321097
+1965,"Household utilities",1.460621733
+1966,"Household utilities",1.54202035
+1967,"Household utilities",1.627719377
+1968,"Household utilities",1.735004778
+1969,"Household utilities",1.885968857
+1970,"Household utilities",2.0666142
+1971,"Household utilities",2.277362415
+1972,"Household utilities",2.52459385
+1973,"Household utilities",2.754061499
+1974,"Household utilities",3.207993704
+1975,"Household utilities",3.834588791
+1976,"Household utilities",4.342992861
+1977,"Household utilities",4.997807634
+1978,"Household utilities",5.597166788
+1979,"Household utilities",6.226010456
+1980,"Household utilities",7.409297881
+1981,"Household utilities",8.333492608
+1982,"Household utilities",9.498847602
+1983,"Household utilities",10.56818821
+1984,"Household utilities",11.22353702
+1985,"Household utilities",11.91598741
+1986,"Household utilities",11.96877284
+1987,"Household utilities",12.3737422
+1988,"Household utilities",13.16625443
+1989,"Household utilities",13.95592782
+1990,"Household utilities",14.15692282
+1991,"Household utilities",15.03766372
+1992,"Household utilities",15.36401709
+1993,"Household utilities",16.70181011
+1994,"Household utilities",17.3009163
+1995,"Household utilities",17.71968632
+1996,"Household utilities",18.77702513
+1997,"Household utilities",19.18334364
+1998,"Household utilities",19.25965484
+1999,"Household utilities",19.62493676
+2000,"Household utilities",21.14430266
+2001,"Household utilities",22.70883692
+2002,"Household utilities",22.51360391
+2003,"Household utilities",24.39428861
+2004,"Household utilities",25.50275451
+2005,"Household utilities",28.23461128
+2006,"Household utilities",29.92877621
+2007,"Household utilities",31.27578841
+2008,"Household utilities",33.27556355
+2009,"Household utilities",32.630502
+2010,"Household utilities",33.71524538
+2011,"Household utilities",33.7583338
+2012,"Household utilities",32.86491652
+2013,"Household utilities",34.60936534
+2014,"Household utilities",36.28646917
+2015,"Household utilities",35.67142616
+2016,"Household utilities",35.52970937
+2017,"Household utilities",36.67628872
+2018,"Household utilities",38.90971949
+2019,"Household utilities",39.41798302
+2020,"Household utilities",40.42305438
+1959,"Health care",1
+1960,"Health care",1.080859671
+1961,"Health care",1.154336283
+1962,"Health care",1.290231774
+1963,"Health care",1.414412137
+1964,"Health care",1.628284871
+1965,"Health care",1.755566793
+1966,"Health care",1.933636747
+1967,"Health care",2.152785504
+1968,"Health care",2.466144121
+1969,"Health care",2.835802781
+1970,"Health care",3.213721028
+1971,"Health care",3.622418879
+1972,"Health care",4.034892541
+1973,"Health care",4.529304678
+1974,"Health care",5.129894648
+1975,"Health care",6.000842815
+1976,"Health care",6.867189212
+1977,"Health care",7.800471976
+1978,"Health care",8.846321113
+1979,"Health care",10.03553308
+1980,"Health care",11.57424357
+1981,"Health care",13.61400759
+1982,"Health care",15.18297514
+1983,"Health care",17.06698694
+1984,"Health care",18.64148335
+1985,"Health care",20.37559208
+1986,"Health care",22.26105352
+1987,"Health care",24.6783818
+1988,"Health care",27.64782132
+1989,"Health care",30.42280657
+1990,"Health care",34.13068689
+1991,"Health care",37.47221239
+1992,"Health care",41.31716814
+1993,"Health care",43.74604298
+1994,"Health care",45.88020228
+1995,"Health care",48.53842394
+1996,"Health care",50.70820059
+1997,"Health care",53.32981037
+1998,"Health care",56.10080067
+1999,"Health care",58.2276949
+2000,"Health care",61.92495575
+2001,"Health care",67.19352718
+2002,"Health care",73.01286136
+2003,"Health care",77.81200169
+2004,"Health care",83.53129372
+2005,"Health care",89.03721871
+2006,"Health care",93.84857986
+2007,"Health care",99.66853772
+2008,"Health care",104.8695154
+2009,"Health care",110.087619
+2010,"Health care",114.5931058
+2011,"Health care",118.4759376
+2012,"Health care",122.8010619
+2013,"Health care",125.292204
+2014,"Health care",130.8417868
+2015,"Health care",138.7154488
+2016,"Health care",145.9820312
+2017,"Health care",151.5907796
+2018,"Health care",158.1126338
+2019,"Health care",165.248327
+2020,"Health care",151.1991537
+1959,"Motor vehicle services",1
+1960,"Motor vehicle services",1.066169746
+1961,"Motor vehicle services",1.128406804
+1962,"Motor vehicle services",1.201024328
+1963,"Motor vehicle services",1.284571063
+1964,"Motor vehicle services",1.37479422
+1965,"Motor vehicle services",1.468767148
+1966,"Motor vehicle services",1.578150723
+1967,"Motor vehicle services",1.710581672
+1968,"Motor vehicle services",1.884214377
+1969,"Motor vehicle services",2.101152369
+1970,"Motor vehicle services",2.374428389
+1971,"Motor vehicle services",2.664166819
+1972,"Motor vehicle services",2.895738065
+1973,"Motor vehicle services",3.044631425
+1974,"Motor vehicle services",3.245838668
+1975,"Motor vehicle services",3.772452899
+1976,"Motor vehicle services",4.207060545
+1977,"Motor vehicle services",4.872324858
+1978,"Motor vehicle services",5.393634534
+1979,"Motor vehicle services",6.072800439
+1980,"Motor vehicle services",6.425096031
+1981,"Motor vehicle services",7.025608195
+1982,"Motor vehicle services",7.281690141
+1983,"Motor vehicle services",8.234680812
+1984,"Motor vehicle services",9.689409182
+1985,"Motor vehicle services",11.3477227
+1986,"Motor vehicle services",12.03566856
+1987,"Motor vehicle services",13.13407719
+1988,"Motor vehicle services",14.54563746
+1989,"Motor vehicle services",15.50713371
+1990,"Motor vehicle services",15.95070423
+1991,"Motor vehicle services",15.43410463
+1992,"Motor vehicle services",17.035257
+1993,"Motor vehicle services",18.43282422
+1994,"Motor vehicle services",20.45980428
+1995,"Motor vehicle services",22.42002012
+1996,"Motor vehicle services",24.3967441
+1997,"Motor vehicle services",26.48394915
+1998,"Motor vehicle services",27.80880739
+1999,"Motor vehicle services",29.92756539
+2000,"Motor vehicle services",31.89518932
+2001,"Motor vehicle services",32.76257545
+2002,"Motor vehicle services",32.14953357
+2003,"Motor vehicle services",32.61295043
+2004,"Motor vehicle services",33.66832815
+2005,"Motor vehicle services",35.41988293
+2006,"Motor vehicle services",36.9827602
+2007,"Motor vehicle services",38.31987379
+2008,"Motor vehicle services",38.3474026
+2009,"Motor vehicle services",36.34927748
+2010,"Motor vehicle services",36.76513627
+2011,"Motor vehicle services",38.35645692
+2012,"Motor vehicle services",39.77944942
+2013,"Motor vehicle services",41.74373514
+2014,"Motor vehicle services",44.58203768
+2015,"Motor vehicle services",46.81653558
+2016,"Motor vehicle services",50.07522407
+2017,"Motor vehicle services",52.25137187
+2018,"Motor vehicle services",54.59150357
+2019,"Motor vehicle services",55.97809585
+2020,"Motor vehicle services",51.74180519
+1959,"Public transportation",1
+1960,"Public transportation",1.037547418
+1961,"Public transportation",1.050940621
+1962,"Public transportation",1.105055353
+1963,"Public transportation",1.114190602
+1964,"Public transportation",1.187272587
+1965,"Public transportation",1.270728497
+1966,"Public transportation",1.374700008
+1967,"Public transportation",1.525044515
+1968,"Public transportation",1.7252458
+1969,"Public transportation",2.009832004
+1970,"Public transportation",2.187195169
+1971,"Public transportation",2.413718356
+1972,"Public transportation",2.698227143
+1973,"Public transportation",2.920956879
+1974,"Public transportation",3.321669118
+1975,"Public transportation",3.536502284
+1976,"Public transportation",4.073778741
+1977,"Public transportation",4.570178834
+1978,"Public transportation",4.865758303
+1979,"Public transportation",5.420840752
+1980,"Public transportation",6.26801889
+1981,"Public transportation",6.620809786
+1982,"Public transportation",6.787876442
+1983,"Public transportation",7.394983355
+1984,"Public transportation",8.374700008
+1985,"Public transportation",8.70387861
+1986,"Public transportation",9.045366571
+1987,"Public transportation",9.690640242
+1988,"Public transportation",10.72338778
+1989,"Public transportation",11.47929086
+1990,"Public transportation",12.12951924
+1991,"Public transportation",12.16869242
+1992,"Public transportation",12.53851514
+1993,"Public transportation",13.92343423
+1994,"Public transportation",15.20980104
+1995,"Public transportation",16.65688627
+1996,"Public transportation",18.36626152
+1997,"Public transportation",20.75265154
+1998,"Public transportation",22.65200898
+1999,"Public transportation",24.07060463
+2000,"Public transportation",26.91282806
+2001,"Public transportation",24.98645196
+2002,"Public transportation",23.56963691
+2003,"Public transportation",25.18340172
+2004,"Public transportation",26.96748471
+2005,"Public transportation",27.94573043
+2006,"Public transportation",29.37872571
+2007,"Public transportation",30.36579701
+2008,"Public transportation",31.90949911
+2009,"Public transportation",30.54586978
+2010,"Public transportation",32.25462569
+2011,"Public transportation",36.74769683
+2012,"Public transportation",38.26770922
+2013,"Public transportation",40.79097314
+2014,"Public transportation",43.1405125
+2015,"Public transportation",44.19780135
+2016,"Public transportation",45.08570101
+2017,"Public transportation",47.89657041
+2018,"Public transportation",52.09754587
+2019,"Public transportation",54.93210498
+2020,"Public transportation",30.59976332
+1959,"Membership clubs",1
+1960,"Membership clubs",1.093152064
+1961,"Membership clubs",1.171989642
+1962,"Membership clubs",1.24672709
+1963,"Membership clubs",1.313695871
+1964,"Membership clubs",1.383182276
+1965,"Membership clubs",1.452524817
+1966,"Membership clubs",1.565961732
+1967,"Membership clubs",1.643072939
+1968,"Membership clubs",1.826068192
+1969,"Membership clubs",1.992950655
+1970,"Membership clubs",2.179758308
+1971,"Membership clubs",2.32808229
+1972,"Membership clubs",2.482664365
+1973,"Membership clubs",2.694288592
+1974,"Membership clubs",3.10020141
+1975,"Membership clubs",3.483095957
+1976,"Membership clubs",3.801035822
+1977,"Membership clubs",4.304920155
+1978,"Membership clubs",4.782837002
+1979,"Membership clubs",5.26046612
+1980,"Membership clubs",5.797439217
+1981,"Membership clubs",6.5058265
+1982,"Membership clubs",7.090202849
+1983,"Membership clubs",7.830168321
+1984,"Membership clubs",8.454251187
+1985,"Membership clubs",9.205509999
+1986,"Membership clubs",9.760250324
+1987,"Membership clubs",10.3005323
+1988,"Membership clubs",11.51402676
+1989,"Membership clubs",13.03575025
+1990,"Membership clubs",14.30973961
+1991,"Membership clubs",14.99259099
+1992,"Membership clubs",16.5230902
+1993,"Membership clubs",17.61825637
+1994,"Membership clubs",18.47374478
+1995,"Membership clubs",20.00697741
+1996,"Membership clubs",21.46633578
+1997,"Membership clubs",22.728816
+1998,"Membership clubs",23.97345706
+1999,"Membership clubs",25.11480363
+2000,"Membership clubs",26.45043879
+2001,"Membership clubs",27.13724644
+2002,"Membership clubs",28.05697022
+2003,"Membership clubs",29.86778881
+2004,"Membership clubs",31.73737592
+2005,"Membership clubs",33.9341102
+2006,"Membership clubs",36.60451734
+2007,"Membership clubs",39.50395627
+2008,"Membership clubs",40.79643217
+2009,"Membership clubs",40.62286002
+2010,"Membership clubs",42.03258524
+2011,"Membership clubs",42.3547691
+2012,"Membership clubs",44.21435765
+2013,"Membership clubs",46.065674
+2014,"Membership clubs",48.36131492
+2015,"Membership clubs",51.11501942
+2016,"Membership clubs",53.97583082
+2017,"Membership clubs",56.95835132
+2018,"Membership clubs",60.11732125
+2019,"Membership clubs",62.78744066
+2020,"Membership clubs",35.5538331
+1959,"Audio-visual services",1
+1960,"Audio-visual services",1.099887946
+1961,"Audio-visual services",1.173203138
+1962,"Audio-visual services",1.238834641
+1963,"Audio-visual services",1.318392829
+1964,"Audio-visual services",1.39779094
+1965,"Audio-visual services",1.48231151
+1966,"Audio-visual services",1.624459741
+1967,"Audio-visual services",1.794781495
+1968,"Audio-visual services",2.025612294
+1969,"Audio-visual services",2.265407396
+1970,"Audio-visual services",2.433007844
+1971,"Audio-visual services",2.635344966
+1972,"Audio-visual services",2.753161518
+1973,"Audio-visual services",3.189210821
+1974,"Audio-visual services",3.6427085
+1975,"Audio-visual services",4.138946694
+1976,"Audio-visual services",4.800384184
+1977,"Audio-visual services",5.154954378
+1978,"Audio-visual services",5.52072995
+1979,"Audio-visual services",6.180886826
+1980,"Audio-visual services",6.872738915
+1981,"Audio-visual services",7.907955819
+1982,"Audio-visual services",8.97214663
+1983,"Audio-visual services",10.63406435
+1984,"Audio-visual services",12.14486954
+1985,"Audio-visual services",14.04065952
+1986,"Audio-visual services",15.67616456
+1987,"Audio-visual services",17.39170802
+1988,"Audio-visual services",19.94157195
+1989,"Audio-visual services",22.19049144
+1990,"Audio-visual services",24.25180086
+1991,"Audio-visual services",25.2204258
+1992,"Audio-visual services",27.27533216
+1993,"Audio-visual services",29.44069153
+1994,"Audio-visual services",29.77397151
+1995,"Audio-visual services",32.01168561
+1996,"Audio-visual services",33.7906195
+1997,"Audio-visual services",35.56251
+1998,"Audio-visual services",38.42580439
+1999,"Audio-visual services",41.9454138
+2000,"Audio-visual services",44.90987674
+2001,"Audio-visual services",46.51928926
+2002,"Audio-visual services",47.02465183
+2003,"Audio-visual services",48.60220906
+2004,"Audio-visual services",51.81783256
+2005,"Audio-visual services",51.93420842
+2006,"Audio-visual services",53.9764687
+2007,"Audio-visual services",57.46662398
+2008,"Audio-visual services",61.17240275
+2009,"Audio-visual services",64.26172563
+2010,"Audio-visual services",68.13606531
+2011,"Audio-visual services",69.01664799
+2012,"Audio-visual services",74.45205699
+2013,"Audio-visual services",77.29262046
+2014,"Audio-visual services",80.46726429
+2015,"Audio-visual services",85.86409477
+2016,"Audio-visual services",90.79798303
+2017,"Audio-visual services",90.19529374
+2018,"Audio-visual services",91.80070434
+2019,"Audio-visual services",93.11509525
+2020,"Audio-visual services",93.08468065
+1959,"Gambling",1
+1960,"Gambling",1.088258165
+1961,"Gambling",1.166018663
+1962,"Gambling",1.33437014
+1963,"Gambling",1.446345257
+1964,"Gambling",1.625194401
+1965,"Gambling",1.713063764
+1966,"Gambling",1.829315708
+1967,"Gambling",1.972006221
+1968,"Gambling",2.144634526
+1969,"Gambling",2.360808709
+1970,"Gambling",2.592534992
+1971,"Gambling",2.906687403
+1972,"Gambling",3.385692068
+1973,"Gambling",4.127527216
+1974,"Gambling",4.723172628
+1975,"Gambling",5.360808709
+1976,"Gambling",6.111975117
+1977,"Gambling",6.860031104
+1978,"Gambling",8.059097978
+1979,"Gambling",9.121306376
+1980,"Gambling",10.42301711
+1981,"Gambling",13.10575428
+1982,"Gambling",15.05132193
+1983,"Gambling",17.18973561
+1984,"Gambling",19.53965785
+1985,"Gambling",22.16640747
+1986,"Gambling",24.13063764
+1987,"Gambling",26.34214619
+1988,"Gambling",30.61586314
+1989,"Gambling",33.05559876
+1990,"Gambling",36.7962675
+1991,"Gambling",38.35769829
+1992,"Gambling",43.66990669
+1993,"Gambling",51.75311042
+1994,"Gambling",61.59836703
+1995,"Gambling",70.63491446
+1996,"Gambling",78.21345257
+1997,"Gambling",84.77954899
+1998,"Gambling",86.9059098
+1999,"Gambling",96.9525661
+2000,"Gambling",105.0633748
+2001,"Gambling",108.8487558
+2002,"Gambling",115.1745723
+2003,"Gambling",126.1796267
+2004,"Gambling",139.7597201
+2005,"Gambling",149.4412908
+2006,"Gambling",161.9148523
+2007,"Gambling",169.9214619
+2008,"Gambling",172.1975117
+2009,"Gambling",166.7414463
+2010,"Gambling",170.090591
+2011,"Gambling",173.3355365
+2012,"Gambling",179.5758165
+2013,"Gambling",184.9984448
+2014,"Gambling",189.5412131
+2015,"Gambling",195.4160187
+2016,"Gambling",202.8895801
+2017,"Gambling",211.3413686
+2018,"Gambling",220.4537325
+2019,"Gambling",228.6349145
+2020,"Gambling",144.282223
+1959,"Other recreational services",1
+1960,"Other recreational services",1.095634096
+1961,"Other recreational services",1.203742204
+1962,"Other recreational services",1.367983368
+1963,"Other recreational services",1.542619543
+1964,"Other recreational services",1.845114345
+1965,"Other recreational services",2.123700624
+1966,"Other recreational services",2.544698545
+1967,"Other recreational services",2.785862786
+1968,"Other recreational services",3.382536383
+1969,"Other recreational services",3.91995842
+1970,"Other recreational services",3.988565489
+1971,"Other recreational services",4.330561331
+1972,"Other recreational services",5.091476091
+1973,"Other recreational services",5.611226611
+1974,"Other recreational services",6.016632017
+1975,"Other recreational services",6.803534304
+1976,"Other recreational services",7.888773389
+1977,"Other recreational services",8.892931393
+1978,"Other recreational services",10.07692308
+1979,"Other recreational services",12.16008316
+1980,"Other recreational services",13.52494802
+1981,"Other recreational services",15.54054054
+1982,"Other recreational services",17.22453222
+1983,"Other recreational services",18.93762994
+1984,"Other recreational services",21.63513514
+1985,"Other recreational services",24.04469854
+1986,"Other recreational services",26.81912682
+1987,"Other recreational services",30.67671518
+1988,"Other recreational services",34.87318087
+1989,"Other recreational services",39.28794179
+1990,"Other recreational services",43.65280665
+1991,"Other recreational services",45.83367983
+1992,"Other recreational services",48.63721414
+1993,"Other recreational services",53.58108108
+1994,"Other recreational services",59.65384615
+1995,"Other recreational services",67.13201663
+1996,"Other recreational services",74.48232848
+1997,"Other recreational services",80.12474012
+1998,"Other recreational services",87.28690229
+1999,"Other recreational services",95.3004158
+2000,"Other recreational services",102.983368
+2001,"Other recreational services",105.3357588
+2002,"Other recreational services",109.7422037
+2003,"Other recreational services",116.510395
+2004,"Other recreational services",126.3347193
+2005,"Other recreational services",137.1580042
+2006,"Other recreational services",148.2338877
+2007,"Other recreational services",163.3669439
+2008,"Other recreational services",170.5727651
+2009,"Other recreational services",164.8160083
+2010,"Other recreational services",174.1330561
+2011,"Other recreational services",177.002079
+2012,"Other recreational services",188.6049896
+2013,"Other recreational services",196.6444906
+2014,"Other recreational services",211.9345114
+2015,"Other recreational services",225.6361746
+2016,"Other recreational services",242.8451143
+2017,"Other recreational services",265.3399168
+2018,"Other recreational services",281.6881497
+2019,"Other recreational services",290.1964657
+2020,"Other recreational services",216.2437948
+1959,"Food services",1
+1960,"Food services",1.034806608
+1961,"Food services",1.057850243
+1962,"Food services",1.120322611
+1963,"Food services",1.16906258
+1964,"Food services",1.247397543
+1965,"Food services",1.360204177
+1966,"Food services",1.483648397
+1967,"Food services",1.54160582
+1968,"Food services",1.721748101
+1969,"Food services",1.861497032
+1970,"Food services",2.067965327
+1971,"Food services",2.182607414
+1972,"Food services",2.412293512
+1973,"Food services",2.70675634
+1974,"Food services",2.995940569
+1975,"Food services",3.404603368
+1976,"Food services",3.837850511
+1977,"Food services",4.221982557
+1978,"Food services",4.782237644
+1979,"Food services",5.448346083
+1980,"Food services",5.973459627
+1981,"Food services",6.539167482
+1982,"Food services",6.957369274
+1983,"Food services",7.486421672
+1984,"Food services",7.972843343
+1985,"Food services",8.37101593
+1986,"Food services",8.973620396
+1987,"Food services",9.772001983
+1988,"Food services",10.80592436
+1989,"Food services",11.61128602
+1990,"Food services",12.59981779
+1991,"Food services",13.08593132
+1992,"Food services",13.6193111
+1993,"Food services",14.23925189
+1994,"Food services",14.65127745
+1995,"Food services",14.98299862
+1996,"Food services",15.36210662
+1997,"Food services",15.99829852
+1998,"Food services",16.86041184
+1999,"Food services",17.71286558
+2000,"Food services",18.96124114
+2001,"Food services",19.6979944
+2002,"Food services",20.52808778
+2003,"Food services",21.68189065
+2004,"Food services",23.15397704
+2005,"Food services",24.54989885
+2006,"Food services",26.05833255
+2007,"Food services",27.30917324
+2008,"Food services",28.074999
+2009,"Food services",27.86779384
+2010,"Food services",28.78235822
+2011,"Food services",30.21973178
+2012,"Food services",31.69757908
+2013,"Food services",32.86352005
+2014,"Food services",34.75983709
+2015,"Food services",37.32374968
+2016,"Food services",39.18165619
+2017,"Food services",41.14516151
+2018,"Food services",43.42294449
+2019,"Food services",45.1895205
+2020,"Food services",37.38485359
+1959,"Accommodations",1
+1960,"Accommodations",1.089749536
+1961,"Accommodations",1.135435993
+1962,"Accommodations",1.253246753
+1963,"Accommodations",1.382884972
+1964,"Accommodations",1.485157699
+1965,"Accommodations",1.668599258
+1966,"Accommodations",1.807977737
+1967,"Accommodations",2.0317718
+1968,"Accommodations",2.287801484
+1969,"Accommodations",2.527829314
+1970,"Accommodations",2.815398887
+1971,"Accommodations",2.846938776
+1972,"Accommodations",3.591604824
+1973,"Accommodations",4.010435993
+1974,"Accommodations",4.368042672
+1975,"Accommodations",4.907467532
+1976,"Accommodations",5.738868275
+1977,"Accommodations",6.383812616
+1978,"Accommodations",7.296846011
+1979,"Accommodations",8.583719852
+1980,"Accommodations",9.513218924
+1981,"Accommodations",11.03246753
+1982,"Accommodations",11.76461039
+1983,"Accommodations",12.84879406
+1984,"Accommodations",14.9724026
+1985,"Accommodations",16.78455473
+1986,"Accommodations",17.84485158
+1987,"Accommodations",20.43715213
+1988,"Accommodations",22.45431354
+1989,"Accommodations",24.05125232
+1990,"Accommodations",25.6208256
+1991,"Accommodations",27.09508349
+1992,"Accommodations",29.84461967
+1993,"Accommodations",30.33186456
+1994,"Accommodations",32.37639147
+1995,"Accommodations",33.90514842
+1996,"Accommodations",37.01043599
+1997,"Accommodations",41.64679963
+1998,"Accommodations",43.80032468
+1999,"Accommodations",46.20060297
+2000,"Accommodations",50.98283859
+2001,"Accommodations",48.32513915
+2002,"Accommodations",49.39842301
+2003,"Accommodations",53.92115028
+2004,"Accommodations",61.38265306
+2005,"Accommodations",70.06052876
+2006,"Accommodations",78.24211503
+2007,"Accommodations",85.25231911
+2008,"Accommodations",89.30009276
+2009,"Accommodations",85.96312616
+2010,"Accommodations",91.45176252
+2011,"Accommodations",97.91906308
+2012,"Accommodations",105.2346939
+2013,"Accommodations",110.3981911
+2014,"Accommodations",119.0227273
+2015,"Accommodations",126.528525
+2016,"Accommodations",131.815167
+2017,"Accommodations",135.3798701
+2018,"Accommodations",140.0176252
+2019,"Accommodations",144.9471243
+2020,"Accommodations",81.53704896
+1959,"Financial services",1
+1960,"Financial services",1.07249467
+1961,"Financial services",1.197488747
+1962,"Financial services",1.210092395
+1963,"Financial services",1.257806207
+1964,"Financial services",1.41952144
+1965,"Financial services",1.549774935
+1966,"Financial services",1.752475717
+1967,"Financial services",1.964226487
+1968,"Financial services",2.229661218
+1969,"Financial services",2.516891732
+1970,"Financial services",2.724946695
+1971,"Financial services",3.035394456
+1972,"Financial services",3.347311064
+1973,"Financial services",3.554939588
+1974,"Financial services",4.136744847
+1975,"Financial services",5.292489931
+1976,"Financial services",5.630277186
+1977,"Financial services",6.266429756
+1978,"Financial services",7.433404407
+1979,"Financial services",8.173229093
+1980,"Financial services",9.0594172
+1981,"Financial services",9.588059701
+1982,"Financial services",11.26050699
+1983,"Financial services",15.59052357
+1984,"Financial services",15.96252073
+1985,"Financial services",19.93840322
+1986,"Financial services",21.77285004
+1987,"Financial services",22.25884861
+1988,"Financial services",22.27647477
+1989,"Financial services",23.2291874
+1990,"Financial services",22.55768775
+1991,"Financial services",23.92693674
+1992,"Financial services",27.24145937
+1993,"Financial services",31.47519545
+1994,"Financial services",33.88320303
+1995,"Financial services",36.67438995
+1996,"Financial services",40.47164179
+1997,"Financial services",45.3848851
+1998,"Financial services",50.33489694
+1999,"Financial services",56.27225776
+2000,"Financial services",63.81705757
+2001,"Financial services",59.51267472
+2002,"Financial services",60.54314144
+2003,"Financial services",62.39876806
+2004,"Financial services",67.76995973
+2005,"Financial services",73.32120351
+2006,"Financial services",79.02075338
+2007,"Financial services",85.10438285
+2008,"Financial services",89.17815683
+2009,"Financial services",83.94877991
+2010,"Financial services",88.22023217
+2011,"Financial services",93.43681592
+2012,"Financial services",99.21208244
+2013,"Financial services",104.5945984
+2014,"Financial services",108.28742
+2015,"Financial services",114.7910922
+2016,"Financial services",119.2496565
+2017,"Financial services",126.0505094
+2018,"Financial services",133.4638237
+2019,"Financial services",138.9975835
+2020,"Financial services",142.7766899
+1959,"Insurance",1
+1960,"Insurance",1.097350315
+1961,"Insurance",1.164653784
+1962,"Insurance",1.231957254
+1963,"Insurance",1.292160738
+1964,"Insurance",1.418972332
+1965,"Insurance",1.553396282
+1966,"Insurance",1.661396574
+1967,"Insurance",1.720611916
+1968,"Insurance",1.966622749
+1969,"Insurance",2.104267311
+1970,"Insurance",2.302664324
+1971,"Insurance",2.499011858
+1972,"Insurance",2.839774557
+1973,"Insurance",3.100461133
+1974,"Insurance",3.256368028
+1975,"Insurance",3.496962377
+1976,"Insurance",3.959559362
+1977,"Insurance",4.688735178
+1978,"Insurance",5.488727858
+1979,"Insurance",5.919082126
+1980,"Insurance",6.420619236
+1981,"Insurance",7.006404626
+1982,"Insurance",7.944188259
+1983,"Insurance",8.595447226
+1984,"Insurance",9.739972186
+1985,"Insurance",10.6934563
+1986,"Insurance",10.65671205
+1987,"Insurance",10.55292051
+1988,"Insurance",12.50095154
+1989,"Insurance",14.60346216
+1990,"Insurance",16.35730493
+1991,"Insurance",18.12886107
+1992,"Insurance",19.50838091
+1993,"Insurance",21.65543112
+1994,"Insurance",21.8321622
+1995,"Insurance",22.47053872
+1996,"Insurance",23.20944957
+1997,"Insurance",24.80196897
+1998,"Insurance",26.42072903
+1999,"Insurance",27.73986239
+2000,"Insurance",30.19433465
+2001,"Insurance",30.98547065
+2002,"Insurance",31.51650564
+2003,"Insurance",33.8235983
+2004,"Insurance",36.29955351
+2005,"Insurance",39.84548382
+2006,"Insurance",40.70249597
+2007,"Insurance",42.18280632
+2008,"Insurance",41.88508271
+2009,"Insurance",39.28059581
+2010,"Insurance",42.30046845
+2011,"Insurance",44.63753477
+2012,"Insurance",43.4298053
+2013,"Insurance",44.87220026
+2014,"Insurance",49.2962231
+2015,"Insurance",51.47687015
+2016,"Insurance",51.93653931
+2017,"Insurance",56.70070268
+2018,"Insurance",60.80226175
+2019,"Insurance",64.8030303
+2020,"Insurance",67.61798703
+1959,"Communication services",1
+1960,"Communication services",1.076891192
+1961,"Communication services",1.149689119
+1962,"Communication services",1.221917098
+1963,"Communication services",1.329948187
+1964,"Communication services",1.435129534
+1965,"Communication services",1.558756477
+1966,"Communication services",1.679585492
+1967,"Communication services",1.835336788
+1968,"Communication services",2.001968912
+1969,"Communication services",2.219481865
+1970,"Communication services",2.401088083
+1971,"Communication services",2.640725389
+1972,"Communication services",2.969637306
+1973,"Communication services",3.33746114
+1974,"Communication services",3.659481865
+1975,"Communication services",4.128756477
+1976,"Communication services",4.639585492
+1977,"Communication services",5.028082902
+1978,"Communication services",5.567305699
+1979,"Communication services",6.020207254
+1980,"Communication services",6.454611399
+1981,"Communication services",7.250466321
+1982,"Communication services",8.260466321
+1983,"Communication services",9.039067358
+1984,"Communication services",9.777772021
+1985,"Communication services",10.75326425
+1986,"Communication services",11.52321244
+1987,"Communication services",12.16134715
+1988,"Communication services",12.78797927
+1989,"Communication services",13.6065285
+1990,"Communication services",14.15751295
+1991,"Communication services",14.9215544
+1992,"Communication services",16.39243523
+1993,"Communication services",17.29854922
+1994,"Communication services",18.77450777
+1995,"Communication services",19.88212435
+1996,"Communication services",21.74673575
+1997,"Communication services",24.11803109
+1998,"Communication services",25.82917098
+1999,"Communication services",28.05823834
+2000,"Communication services",30.72735751
+2001,"Communication services",31.76025907
+2002,"Communication services",32.09051813
+2003,"Communication services",32.66336788
+2004,"Communication services",33.68119171
+2005,"Communication services",34.83419689
+2006,"Communication services",37.16310881
+2007,"Communication services",39.36259067
+2008,"Communication services",41.37393782
+2009,"Communication services",40.79647668
+2010,"Communication services",41.99341969
+2011,"Communication services",43.23896373
+2012,"Communication services",43.58658031
+2013,"Communication services",44.31932642
+2014,"Communication services",47.06295337
+2015,"Communication services",47.79082902
+2016,"Communication services",49.67134715
+2017,"Communication services",48.88647668
+2018,"Communication services",50.17932642
+2019,"Communication services",51.69911917
+2020,"Communication services",52.90969652
+1959,"Education services",1
+1960,"Education services",1.084819064
+1961,"Education services",1.165666372
+1962,"Education services",1.280229479
+1963,"Education services",1.408649603
+1964,"Education services",1.560458959
+1965,"Education services",1.782259488
+1966,"Education services",2.028684907
+1967,"Education services",2.262842012
+1968,"Education services",2.546072374
+1969,"Education services",2.848543689
+1970,"Education services",3.239629303
+1971,"Education services",3.566637246
+1972,"Education services",3.885436893
+1973,"Education services",4.315887026
+1974,"Education services",4.721977052
+1975,"Education services",5.276522507
+1976,"Education services",5.816769638
+1977,"Education services",6.252250662
+1978,"Education services",6.895233892
+1979,"Education services",7.527802295
+1980,"Education services",8.366372462
+1981,"Education services",9.275198588
+1982,"Education services",10.1651368
+1983,"Education services",11.24121801
+1984,"Education services",12.28111209
+1985,"Education services",13.39329214
+1986,"Education services",14.4180053
+1987,"Education services",15.72568402
+1988,"Education services",17.57846425
+1989,"Education services",19.64616064
+1990,"Education services",21.41562224
+1991,"Education services",23.00353045
+1992,"Education services",24.99593998
+1993,"Education services",26.48958517
+1994,"Education services",28.20132392
+1995,"Education services",30.18605472
+1996,"Education services",32.6988526
+1997,"Education services",35.22859665
+1998,"Education services",37.91332745
+1999,"Education services",40.7298323
+2000,"Education services",44.21809356
+2001,"Education services",47.44404237
+2002,"Education services",49.36460724
+2003,"Education services",52.83742277
+2004,"Education services",56.17643425
+2005,"Education services",60.27652251
+2006,"Education services",64.75066196
+2007,"Education services",69.40017652
+2008,"Education services",73.02268314
+2009,"Education services",76.44704325
+2010,"Education services",81.37519859
+2011,"Education services",84.19761695
+2012,"Education services",85.09796999
+2013,"Education services",87.27263901
+2014,"Education services",89.58075905
+2015,"Education services",92.5842895
+2016,"Education services",95.95445719
+2017,"Education services",98.79399823
+2018,"Education services",101.7736981
+2019,"Education services",105.7847308
+2020,"Education services",104.3258822
+1959,"Professional and other services",1
+1960,"Professional and other services",1.049045691
+1961,"Professional and other services",1.12313476
+1962,"Professional and other services",1.187102371
+1963,"Professional and other services",1.26847889
+1964,"Professional and other services",1.338114517
+1965,"Professional and other services",1.441122036
+1966,"Professional and other services",1.586061307
+1967,"Professional and other services",1.682880278
+1968,"Professional and other services",1.81417004
+1969,"Professional and other services",1.99421631
+1970,"Professional and other services",2.233140544
+1971,"Professional and other services",2.407807981
+1972,"Professional and other services",2.634759977
+1973,"Professional and other services",2.94869867
+1974,"Professional and other services",3.247310584
+1975,"Professional and other services",3.445922499
+1976,"Professional and other services",3.827761712
+1977,"Professional and other services",4.234412955
+1978,"Professional and other services",4.798438404
+1979,"Professional and other services",5.123423944
+1980,"Professional and other services",5.748178138
+1981,"Professional and other services",6.515384615
+1982,"Professional and other services",7.115037594
+1983,"Professional and other services",7.764950839
+1984,"Professional and other services",8.671544245
+1985,"Professional and other services",9.802139965
+1986,"Professional and other services",10.73528051
+1987,"Professional and other services",11.83319838
+1988,"Professional and other services",13.26350492
+1989,"Professional and other services",14.39120879
+1990,"Professional and other services",15.67206478
+1991,"Professional and other services",16.23828803
+1992,"Professional and other services",17.41873916
+1993,"Professional and other services",18.13209948
+1994,"Professional and other services",18.7108155
+1995,"Professional and other services",19.1622325
+1996,"Professional and other services",20.27408907
+1997,"Professional and other services",21.46148062
+1998,"Professional and other services",23.14748409
+1999,"Professional and other services",24.79803355
+2000,"Professional and other services",26.14563331
+2001,"Professional and other services",27.9735107
+2002,"Professional and other services",29.29352227
+2003,"Professional and other services",31.72562175
+2004,"Professional and other services",33.07709659
+2005,"Professional and other services",34.33227299
+2006,"Professional and other services",35.93111625
+2007,"Professional and other services",37.85587045
+2008,"Professional and other services",38.39716599
+2009,"Professional and other services",36.76685946
+2010,"Professional and other services",36.76506651
+2011,"Professional and other services",37.83863505
+2012,"Professional and other services",38.01463274
+2013,"Professional and other services",38.57154425
+2014,"Professional and other services",39.90005784
+2015,"Professional and other services",41.68328514
+2016,"Professional and other services",42.98288028
+2017,"Professional and other services",45.21052632
+2018,"Professional and other services",45.82510121
+2019,"Professional and other services",47.19947947
+2020,"Professional and other services",45.40822228
+1959,"Personal care services",1
+1960,"Personal care services",1.038382454
+1961,"Personal care services",1.087932911
+1962,"Personal care services",1.139055759
+1963,"Personal care services",1.166633069
+1964,"Personal care services",1.24017256
+1965,"Personal care services",1.320525743
+1966,"Personal care services",1.436479458
+1967,"Personal care services",1.534653066
+1968,"Personal care services",1.629077128
+1969,"Personal care services",1.661290973
+1970,"Personal care services",1.70769665
+1971,"Personal care services",1.666653227
+1972,"Personal care services",1.734427287
+1973,"Personal care services",1.821392573
+1974,"Personal care services",1.881465952
+1975,"Personal care services",1.982945611
+1976,"Personal care services",2.114139419
+1977,"Personal care services",2.358101843
+1978,"Personal care services",2.585977503
+1979,"Personal care services",2.742168286
+1980,"Personal care services",2.894286981
+1981,"Personal care services",3.007821634
+1982,"Personal care services",3.037858324
+1983,"Personal care services",3.658992864
+1984,"Personal care services",3.893480627
+1985,"Personal care services",4.306978994
+1986,"Personal care services",4.746683869
+1987,"Personal care services",5.271096238
+1988,"Personal care services",6.086884651
+1989,"Personal care services",6.655767447
+1990,"Personal care services",7.168487683
+1991,"Personal care services",6.853001653
+1992,"Personal care services",7.652703302
+1993,"Personal care services",8.01878805
+1994,"Personal care services",8.525783171
+1995,"Personal care services",9.209490787
+1996,"Personal care services",9.713784623
+1997,"Personal care services",10.36543966
+1998,"Personal care services",11.13579003
+1999,"Personal care services",11.96568963
+2000,"Personal care services",12.96496392
+2001,"Personal care services",13.41748982
+2002,"Personal care services",13.94452284
+2003,"Personal care services",14.69963311
+2004,"Personal care services",15.76260936
+2005,"Personal care services",16.66169415
+2006,"Personal care services",17.4279321
+2007,"Personal care services",17.98931581
+2008,"Personal care services",18.34709511
+2009,"Personal care services",17.96121437
+2010,"Personal care services",18.6702415
+2011,"Personal care services",19.29504495
+2012,"Personal care services",19.95258638
+2013,"Personal care services",20.7349111
+2014,"Personal care services",21.97375318
+2015,"Personal care services",22.80949885
+2016,"Personal care services",23.64226102
+2017,"Personal care services",24.87053985
+2018,"Personal care services",26.97871225
+2019,"Personal care services",28.24811515
+2020,"Personal care services",17.07125619
+1959,"Social services",1
+1960,"Social services",1.029781812
+1961,"Social services",1.072145246
+1962,"Social services",1.067367415
+1963,"Social services",1.144131231
+1964,"Social services",1.337314859
+1965,"Social services",1.49689441
+1966,"Social services",1.710304189
+1967,"Social services",1.941551202
+1968,"Social services",2.09746775
+1969,"Social services",2.294792164
+1970,"Social services",2.465679248
+1971,"Social services",2.792960663
+1972,"Social services",3.218824654
+1973,"Social services",3.477464564
+1974,"Social services",3.729256251
+1975,"Social services",4.140149705
+1976,"Social services",4.773849339
+1977,"Social services",5.477464564
+1978,"Social services",6.382863513
+1979,"Social services",7.568721134
+1980,"Social services",8.914317566
+1981,"Social services",10.28029941
+1982,"Social services",11.43096034
+1983,"Social services",12.49721293
+1984,"Social services",13.90858417
+1985,"Social services",15.96448479
+1986,"Social services",17.85873547
+1987,"Social services",20.02548176
+1988,"Social services",21.5782768
+1989,"Social services",24.57732123
+1990,"Social services",26.23140627
+1991,"Social services",27.74072305
+1992,"Social services",30.2656474
+1993,"Social services",32.56760631
+1994,"Social services",34.6432553
+1995,"Social services",37.02930403
+1996,"Social services",38.93008441
+1997,"Social services",41.17009078
+1998,"Social services",44.12199395
+1999,"Social services",47.40659341
+2000,"Social services",51.69198917
+2001,"Social services",56.29256251
+2002,"Social services",59.47252747
+2003,"Social services",62.82194617
+2004,"Social services",66.29144768
+2005,"Social services",70.22153209
+2006,"Social services",74.39050804
+2007,"Social services",79.37521898
+2008,"Social services",82.74390827
+2009,"Social services",84.94903647
+2010,"Social services",88.55550247
+2011,"Social services",91.37139672
+2012,"Social services",94.35371875
+2013,"Social services",98.08679726
+2014,"Social services",103.5446727
+2015,"Social services",109.2529065
+2016,"Social services",115.0205447
+2017,"Social services",122.9483994
+2018,"Social services",129.4480013
+2019,"Social services",135.2960663
+2020,"Social services",125.4528376
+1959,"Household maintenance",1
+1960,"Household maintenance",1.061182219
+1961,"Household maintenance",1.047479951
+1962,"Household maintenance",1.067024271
+1963,"Household maintenance",1.073928515
+1964,"Household maintenance",1.116575495
+1965,"Household maintenance",1.164267885
+1966,"Household maintenance",1.218705189
+1967,"Household maintenance",1.287322747
+1968,"Household maintenance",1.371873174
+1969,"Household maintenance",1.437941473
+1970,"Household maintenance",1.480641564
+1971,"Household maintenance",1.522969887
+1972,"Household maintenance",1.616761379
+1973,"Household maintenance",1.727972808
+1974,"Household maintenance",1.75702374
+1975,"Household maintenance",1.784481385
+1976,"Household maintenance",2.068617558
+1977,"Household maintenance",2.326092729
+1978,"Household maintenance",2.574273727
+1979,"Household maintenance",2.793510011
+1980,"Household maintenance",2.925009294
+1981,"Household maintenance",3.103032556
+1982,"Household maintenance",3.165276966
+1983,"Household maintenance",3.358011578
+1984,"Household maintenance",3.887460832
+1985,"Household maintenance",4.104625843
+1986,"Household maintenance",4.363216315
+1987,"Household maintenance",4.451006426
+1988,"Household maintenance",4.681555048
+1989,"Household maintenance",5.13059642
+1990,"Household maintenance",5.393276329
+1991,"Household maintenance",5.254076159
+1992,"Household maintenance",5.645493653
+1993,"Household maintenance",6.04270009
+1994,"Household maintenance",6.655531361
+1995,"Household maintenance",7.339370121
+1996,"Household maintenance",7.608901163
+1997,"Household maintenance",8.266875564
+1998,"Household maintenance",9.356046524
+1999,"Household maintenance",9.672260874
+2000,"Household maintenance",10.45100643
+2001,"Household maintenance",10.47187849
+2002,"Household maintenance",10.55287057
+2003,"Household maintenance",11.02586436
+2004,"Household maintenance",11.61553986
+2005,"Household maintenance",12.07738064
+2006,"Household maintenance",12.57549525
+2007,"Household maintenance",13.81124861
+2008,"Household maintenance",14.27478889
+2009,"Household maintenance",13.23867439
+2010,"Household maintenance",13.07759307
+2011,"Household maintenance",13.6163365
+2012,"Household maintenance",14.44054384
+2013,"Household maintenance",15.20309098
+2014,"Household maintenance",16.51186999
+2015,"Household maintenance",16.86191513
+2016,"Household maintenance",17.17558022
+2017,"Household maintenance",17.54102714
+2018,"Household maintenance",19.31472728
+2019,"Household maintenance",20.21960805
+2020,"Household maintenance",19.63731586
+1959,"Nonprofit Institution",1
+1960,"Nonprofit Institution",1.040143922
+1961,"Nonprofit Institution",1.078591622
+1962,"Nonprofit Institution",1.126497044
+1963,"Nonprofit Institution",1.186019018
+1964,"Nonprofit Institution",1.322641994
+1965,"Nonprofit Institution",1.431354408
+1966,"Nonprofit Institution",1.532716525
+1967,"Nonprofit Institution",1.655050116
+1968,"Nonprofit Institution",1.8077101
+1969,"Nonprofit Institution",1.941660242
+1970,"Nonprofit Institution",2.153379594
+1971,"Nonprofit Institution",2.406373683
+1972,"Nonprofit Institution",2.63459265
+1973,"Nonprofit Institution",2.828013364
+1974,"Nonprofit Institution",3.18617322
+1975,"Nonprofit Institution",3.497969674
+1976,"Nonprofit Institution",3.902852737
+1977,"Nonprofit Institution",4.242662555
+1978,"Nonprofit Institution",4.732665125
+1979,"Nonprofit Institution",5.370290414
+1980,"Nonprofit Institution",6.174865073
+1981,"Nonprofit Institution",7.019326651
+1982,"Nonprofit Institution",7.80539707
+1983,"Nonprofit Institution",8.379542534
+1984,"Nonprofit Institution",9.331020303
+1985,"Nonprofit Institution",9.849858648
+1986,"Nonprofit Institution",10.81675662
+1987,"Nonprofit Institution",11.45160627
+1988,"Nonprofit Institution",13.01336417
+1989,"Nonprofit Institution",13.98858905
+1990,"Nonprofit Institution",15.59707016
+1991,"Nonprofit Institution",16.47432537
+1992,"Nonprofit Institution",18.07951683
+1993,"Nonprofit Institution",18.51760473
+1994,"Nonprofit Institution",20.1000771
+1995,"Nonprofit Institution",21.0388075
+1996,"Nonprofit Institution",22.62539193
+1997,"Nonprofit Institution",21.70917502
+1998,"Nonprofit Institution",25.45499871
+1999,"Nonprofit Institution",28.42030326
+2000,"Nonprofit Institution",32.49354922
+2001,"Nonprofit Institution",36.81984066
+2002,"Nonprofit Institution",40.77974814
+2003,"Nonprofit Institution",42.2537137
+2004,"Nonprofit Institution",42.4305834
+2005,"Nonprofit Institution",43.23150861
+2006,"Nonprofit Institution",49.1769211
+2007,"Nonprofit Institution",51.14988435
+2008,"Nonprofit Institution",59.06805448
+2009,"Nonprofit Institution",59.45628373
+2010,"Nonprofit Institution",60.53729118
+2011,"Nonprofit Institution",64.11842714
+2012,"Nonprofit Institution",70.2228219
+2013,"Nonprofit Institution",72.49344641
+2014,"Nonprofit Institution",75.16761758
+2015,"Nonprofit Institution",76.39871498
+2016,"Nonprofit Institution",82.39789257
+2017,"Nonprofit Institution",85.67509638
+2018,"Nonprofit Institution",90.21120535
+2019,"Nonprofit Institution",90.29169879
+2020,"Nonprofit Institution",114.5858312
+1959,"Overall Average",1
+1960,"Overall Average",1.044000364
+1961,"Overall Average",1.076608518
+1962,"Overall Average",1.142529572
+1963,"Overall Average",1.20352294
+1964,"Overall Average",1.29415994
+1965,"Overall Average",1.395847455
+1966,"Overall Average",1.512561646
+1967,"Overall Average",1.595458303
+1968,"Overall Average",1.75487489
+1969,"Overall Average",1.902257798
+1970,"Overall Average",2.037430643
+1971,"Overall Average",2.205282037
+1972,"Overall Average",2.419127016
+1973,"Overall Average",2.677258688
+1974,"Overall Average",2.931804933
+1975,"Overall Average",3.249774378
+1976,"Overall Average",3.621942837
+1977,"Overall Average",4.020203514
+1978,"Overall Average",4.490259712
+1979,"Overall Average",5.007601925
+1980,"Overall Average",5.533314878
+1981,"Overall Average",6.123887415
+1982,"Overall Average",6.553621217
+1983,"Overall Average",7.210005655
+1984,"Overall Average",7.873532471
+1985,"Overall Average",8.568480208
+1986,"Overall Average",9.130729226
+1987,"Overall Average",9.723415211
+1988,"Overall Average",10.53474968
+1989,"Overall Average",11.33653883
+1990,"Overall Average",12.08353813
+1991,"Overall Average",12.53203985
+1992,"Overall Average",13.34683635
+1993,"Overall Average",14.15452212
+1994,"Overall Average",14.99623661
+1995,"Overall Average",15.77510055
+1996,"Overall Average",16.67811609
+1997,"Overall Average",17.5974009
+1998,"Overall Average",18.65865845
+1999,"Overall Average",19.96455309
+2000,"Overall Average",21.49157192
+2001,"Overall Average",22.41758306
+2002,"Overall Average",23.28177903
+2003,"Overall Average",24.46859371
+2004,"Overall Average",26.01889368
+2005,"Overall Average",27.71411826
+2006,"Overall Average",29.32591227
+2007,"Overall Average",30.76940089
+2008,"Overall Average",31.64811257
+2009,"Overall Average",31.22286035
+2010,"Overall Average",32.34419613
+2011,"Overall Average",33.80773797
+2012,"Overall Average",34.95814235
+2013,"Overall Average",35.99054881
+2014,"Overall Average",37.59744678
+2015,"Overall Average",39.09126107
+2016,"Overall Average",40.5691201
+2017,"Overall Average",42.34058618
+2018,"Overall Average",44.37278699
+2019,"Overall Average",46.06122275
+2020,"Overall Average",44.62149898
