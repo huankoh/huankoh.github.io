@@ -5,6 +5,19 @@ body {
     overflow-x: hidden;
 }
 
+a:link, a:visited {
+  text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Georgia;
+    font-size: 12.5px;
+    color: #0080c3;
+}
+
+a:hover, a:active {
+}
+
+
 div.scroll {
     width: 80%;
     height: 3700px;
@@ -194,13 +207,13 @@ div.tooltipB {
 
 #selectButton {
     position: absolute;
-    top: 282px;
+    top: 277.5px;
     left: 217px;
 }
 
 #selectButton2 {
     position: absolute;
-    top: 999px;
+    top: 995.5px;
     left: 217px;
 }
 
