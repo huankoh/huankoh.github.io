@@ -592,7 +592,7 @@ window.addEventListener('load', function(){
     var speed_adj = 1
     
     var fasterButton = d3.select("#fast-button")
-        .style("left", margin.left - 22);
+        .style("left", margin.left - 17.5);
     
     var slowerButton = d3.select("#slow-button")
         .style("left", margin.left - 75);

@@ -14,7 +14,7 @@ window.addEventListener('load', function(){
     // Provide some text below the graphs
     svg.append('text')
             .attr('y', 560+50)
-            .attr('x',margin1.left)
+            .attr('x',innerWidth - 550)
             .attr('font-family','Arial')
             .attr('font-size', '14px')
             .attr('font-weight','normal')
@@ -24,7 +24,7 @@ window.addEventListener('load', function(){
     
     svg.append('text')
             .attr('y', 560+75)
-            .attr('x',margin1.left)
+            .attr('x',innerWidth - 550)
             .attr('font-family','Arial')
             .attr('font-size', '14px')
             .attr('font-weight','normal')
@@ -33,7 +33,7 @@ window.addEventListener('load', function(){
             .text('This is 46x more as compared to the total spending in 1959. Except for spending on Animal feeds/Farm supplies,');
     svg.append('text')
             .attr('y', 560+100)
-            .attr('x',margin1.left)
+            .attr('x',innerWidth - 550)
             .attr('font-family','Arial')
             .attr('font-size', '14px')
             .attr('font-weight','normal')
@@ -43,7 +43,7 @@ window.addEventListener('load', function(){
     
     svg.append('text')
             .attr('y', 165)
-            .attr('x',margin1.left)
+            .attr('x',innerWidth - 550)
             .attr('font-family','Georgia')
             .attr('fill', '#333')
             .attr('font-size', '10px')
@@ -54,7 +54,7 @@ window.addEventListener('load', function(){
     
     svg.append('text')
             .attr('y', 175)
-            .attr('x',margin1.left + 10)
+            .attr('x',innerWidth - 550)
             .attr('font-family','Georgia')
             .attr('fill', '#333')
             .attr('font-size', '10px')
