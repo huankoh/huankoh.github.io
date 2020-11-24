@@ -41,7 +41,7 @@ window.addEventListener('load', function(){
         } else if (['2/1/2020','3/1/2020','4/1/2020','5/1/2020','6/1/2020'].includes(date)){
             return "COVID-19 Crisis"
         } else {
-            return "Normal"
+            return ""
         }
     }
     
@@ -64,7 +64,7 @@ window.addEventListener('load', function(){
     // INITIAL bubble plot setup
     const width = window.innerWidth*0.8;
     const height = 400;
-    const margin = ({top: 0, right: 200, bottom: 0, left: 200})    
+    const margin = ({top: 20, right: 200, bottom: 0, left: 200})    
     
     var svg = d3.select("#vis")
         .append("svg")
@@ -121,11 +121,11 @@ window.addEventListener('load', function(){
     svgB.append("text")
         .attr("class", "x label")
         .attr("text-anchor", "end")
-        .attr("font-family", "Helvetica Neue")
+        .attr("font-family", "Georgia")
         .attr("font-size","13px")
         .style("font-weight", "bold")
         .attr("x", margin.left -50)
-        .attr("y", 0-10)
+        .attr("y", -10)
         .text("Year-on-year percentage change (%)");
 
     // 
@@ -139,7 +139,7 @@ window.addEventListener('load', function(){
     // Add a y-axis label.
     svgB.append("text")
         .attr("class", "y label")
-        .attr("font-family", "Helvetica Neue")
+        .attr("font-family", "Georgia")
         .attr("font-size","15px")
         .attr("text-anchor", "end")
         .attr("x", 0)
@@ -148,7 +148,7 @@ window.addEventListener('load', function(){
     // Add a y-axis label.
     svgB.append("text")
         .attr("class", "y label")
-        .attr("font-family", "Helvetica Neue")
+        .attr("font-family", "Georgia")
         .attr("font-size","15px")
         .attr("text-anchor", "end")
         .attr("x", 0 )
@@ -158,7 +158,7 @@ window.addEventListener('load', function(){
     // Add a y-axis label.
     svgB.append("text")
         .attr("class", "y label")
-        .attr("font-family", "Helvetica Neue")
+        .attr("font-family", "Georgia")
         .attr("font-size","15px")
         .attr("text-anchor", "end")
         .attr("x", 0)
@@ -168,7 +168,7 @@ window.addEventListener('load', function(){
     // Add a y-axis label.
     svgB.append("text")
         .attr("class", "y label")
-        .attr("font-family", "Helvetica Neue")
+        .attr("font-family", "Georgia")
         .attr("font-size","15px")
         .style("font-weight", "bold")
         .attr("text-anchor", "end")
@@ -178,7 +178,7 @@ window.addEventListener('load', function(){
     // Add a y-axis label.
     svgB.append("text")
         .attr("class", "y label")
-        .attr("font-family", "Helvetica Neue")
+        .attr("font-family", "Georgia")
         .attr("font-size","15px")
         .style("font-weight", "bold")
         .attr("text-anchor", "end")
@@ -188,7 +188,7 @@ window.addEventListener('load', function(){
     // Add a y-axis label.
     svgB.append("text")
         .attr("class", "y label")
-        .attr("font-family", "Helvetica Neue")
+        .attr("font-family", "Georgia")
         .attr("font-size","15px")
         .attr("text-anchor", "end")
         .style("font-weight", "bold")
@@ -239,7 +239,7 @@ window.addEventListener('load', function(){
             .attr("text-anchor", "end")
             .attr("y", height - 84)
             .attr("x", width- margin.right)
-            .text('Normal');
+            .text('');
         // Add bubble
         var bubble =  svgB.selectAll("dot").data(filtered_data)
             .enter().append("circle")
