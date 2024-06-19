@@ -1,109 +1,301 @@
-<html> 
-    <head>
-        <title>StressTest.ai</title>
-        <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
-        <link rel="manifest" href="favicon_io/site.webmanifest">
-        <link rel="stylesheet" href="main.css">
-    </head>
-    <body>
-        <div class="scroll">
-            <h3 style="font-family: georgia;font-size:25px;color:#333">Track Household Spending, <br/> Ups and Downs of Industries </h3>
-            <a href="https://www.linkedin.com/in/huankoh/">Huan Koh</a>
-            <hr style="height:1px;border-width:0;color:lightgrey;background-color:lightgrey">
-            <!-- Initialize a select button -->
-            <select id="selectButton"></select>
-            <svg></svg>
-            <script src="https://d3js.org/d3.v6.min.js"></script>
-            <script type="text/javascript" src="spending_rise.js"></script>
-            <!-- Scatter Plot that shows percentage changes -->
-            <script type="text/javascript" src="percentage_change.js"></script>
-            <select id="selectButton2";style="font-family: georgia;"></select>
-            <div id = "pc_scatter"></div>
-            
-            <div class = "comment">
-                <h3 style="font-family: Arial;font-size:14px;font-weight:normal; line-height: 1.6;text-align: left;"> Services industries such as accomodations, food services and personal care services were always thought to be much more stable as compared to durable goods industries such as motor  vehicles. Is this the case today? <br><br></h3>
-                
-                 <h3 style="font-family: Georgia;font-size:16px;font-weight:bold; line-height: 1.6;text-align: left;">   Go figure above! <br><br></h3>
-            </div>
-            <hr style="height:0.8px;width:120;color:lightgray;background-color:lightgray">
-            <div >
-            <h3> <br><br> </h3>
-             <h3 style="font-family: georgia;font-size:25px;color:#333">Did You Know? </h3>     
-            <table>
-              <tr>
-                <th>Product or Service</th>
-                <th> Fast Facts </th>
-              </tr>
-              <tr>
-                <td>Communication Equipment</td>
-                <td>As compared to 1959, we are spending 340,000% more on communication equipments today.</td>
-              </tr>
-              <tr>
-                <td>Membership Club</td>
-                <td>Membership club performed the worst during the COVID-19 health and economic crisis, suffering a 77% drop in revenue during the second quarter of 2020. <br><br> To put into perspective, the second largest drop in revenue was in 2009, a 2.52% drop. </td>
-              </tr>
-              <tr>
-                <td>Oil Industries: Fuel Oil & Motor Vehicle (oil, lubricants, etc)</td>
-                <td>The most volatile industry across the 1980-2020 period.</td>
-              </tr>
-              <tr>
-                <td>Animal feeds/Farm supplies</td>
-                <td>Spending on this category suffered a drop in revenue every year for at least 10 years before recovering in March 2004. The recovery only lasted 3 years. <br><br>Today, we are only spending 0.36x the amount spend in 1959 on Animal feeds/Farm supplies. <br><br> For any investors that have invested in this industry, YUCK! </td>
-              </tr>
-            </table>
-            <h3> <br><br> </h3>
-            <hr style="height:0.8px;width:120;color:lightgray;background-color:lightgray">
-            <h3> <br><br> </h3>
-             <h3 style="font-family: georgia;font-size:25px;color:#333">Normal Recession vs COVID-19</h3> 
-            <table>
-              <tr>
-                <th>Product or Service</th>
-                <th> Fast Facts </th>
-              </tr>
-                <tr>
-                <td>Normal Recession Losers </td>
-                <td> The greatest losers in a normal economic recessions are often durable goods such as Motor vehicles, Furnitures and furnishings, and Sport and recreational vehicles. <br><br> Are they the greatest losers in the year 2020 of COVID-19 health and economic crisis? </td>
-              </tr>
-                <tr>
-                <td> Normal Recession Proof </td>
-                <td> Convential economic wisdoms suggest that product/service categories such as health care,  accomodation and food services are generally recession proof (i.e. Consumer continues to buy them during a recession). <br><br> Did you know that health care did not suffer a drop in revenue even under all under economic conditions in the past? Is this still the case in the 2020 COVID-19 health and economic crisis? Check it! </td>
-              </tr>
-                <tr>
-                <td>COVID-19 Winners </td>
-                <td>Other than increase in spending by Nonprofit institutions, the products and services that have enjoyed the greatest boost from the health crisis are Sports and recreational vehicles, Sporting equipments and guns, Alcoholic beverages, House and gardening tools and recreational items.<br><br> Work from home?</td>    
-              </tr>
-              <tr>
-                <td>COVID-19 Losers </td>
-                <td> The greatest losers from the health crisis are membership clubs, accommodations, personal care services, public transportation and gambling. <br><br> Are they the biggest losers in the past during adverse economic conditions?</td>
-              </tr>
-            </table>
-            </div>
-            <h3><br><br></h3>
-            <hr style="height:0.8px;width:120;color:lightgray;background-color:lightgray">
-            <h3><br><br></h3>
-            <div class = "comment"><h3 style="font-family: Arial;font-size:14px;font-weight:normal; line-height: 1.6;text-align: left;"> Now that you understand more about how consumer behaviour works and how various industries have been through the ups and downs of varying degrees. Let's play a game! <br><br> Imagine yourself as an investor or a businessman that has invested in a company that sells the product or service of your choice (Note: You can even choose a product category such as durable goods, non-durable goods or services! In such cases, you are managing a diversified conglomerate. Isn't it exciting?). Follow the ups and downs (or, more precisely, right and left) of the orange bubble, what would you do to solve various crises that you will be going through since 1960? <br><br> Obviously, the best business is one that is large in size, grows extremely fast and never suffers any significant losses. So, one of the ways to solve a crisis is to avoid one! As Charlie Munger once said, <i>"All I Want To Know Is Where I'm Going To Die So I'll Never Go There."</i><br><br> Can you pick a product that has never suffered a drop in revenue and is growing at a fast rate? <br><br> </h3></div>
-            <!-- Bubble Plot Simulator -->
-            
-            <script type="text/javascript" src="historical_simulation.js"></script>
-            <!-- Initialize a select button -->
-            <select id="Button">
-                    <option selected disabled>Choose one product or service:</option>
-            </select>
-            <h3 style="font-family: georgia;font-size:25px;color:#333"><br><br>Historical Simulation of Household Spending<br><br></h3>
-            <div id="chart"></div>
-            <div id="vis">
-                <div><button id="play-button">Play</button></div>
-            </div>
-            <div id="speed-button";style = "text-align:left">
-                    <button id="slow-button"; style = "text-align:left;font-size:9.5px;font-family: georgia;font-weight:bold"> Slower </button>
-                    <button id="fast-button"; style = "text-align:left;font-size:9.5px;font-family: georgia;font-weight:bold"> Faster </button>
-            </div>
-            <div class = "comment">
-                <h3><br><br></h3>
-                <h3 style="font-family: Arial;font-size:12px;font-weight:normal; line-height: 1.6;text-align: left;"> Data Sources: The Bureau of Economic Analysis of the United States Department of Commerce, Federal Reserve Bank of St.Louis, Yahoo! Finance </h3>
-            </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PSICHIC: Physicochemical graph neural network for learning protein-ligand interaction fingerprints from sequence data</title>
+    <link rel="icon" href="ligand_ball.png" type="image/png">
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333333;
+            scroll-behavior: smooth;
+        }
+        .container {
+            width: 85%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .header-text, .header-image {
+            flex: 1;
+            padding: 20px;
+        }
+        .header-text h1 {
+            font-size: 2.5em;
+            margin: 0 0 10px;
+            color: #333333;
+        }
+        .header-text p {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+        .header-text .paper-title {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #333333;
+        }
+        .header-text .journal-info {
+            font-size: 1.3em;
+            font-style: italic;
+            color: #666666;
+        }
+        .header-text .authors {
+            font-size: 1.1em;
+            font-style: italic;
+            color: #666666;
+        }
+        .header-text .cta-button {
+            display: inline-block;
+            padding: 12px 25px;
+            font-size: 1.2em;
+            color: #ffffff;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 20px;
+            transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+        }
+        .header-text .cta-button:hover {
+            background-color: #0056b3;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .header-image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+        }
+        @media (max-width: 768px) {
+            .header-image {
+                display: none;
+            }
+            .header-text {
+                text-align: center;
+            }
+        }
+        .content {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 20px 0;
+        }
+        .content h2 {
+            color: #333333;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+        }
+        .content ul {
+            list-style-type: disc;
+            padding-left: 20px;
+            margin: 20px 0;
+            color: black;
+        }
+        .content ul li {
+            margin: 10px 0;
+            color: black;
+        }
+        .note {
+            background-color: #ffebcc;
+            padding: 20px;
+            border-left: 4px solid #ffa500;
+            margin: 20px 0;
+            font-size: 1em;
+            border-radius: 10px;
+        }
+        .note a {
+            text-decoration: none;
+        }
+        .note img {
+            vertical-align: middle;
+        }
+        .links {
+            background-color: #e8f0fe;
+            padding: 20px;
+            border-left: 4px solid #0E56CF;
+            margin: 20px 0;
+            font-size: 1em;
+            display: flex;
+            justify-content: space-around;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .links a {
+            text-decoration: none;
+            color: #0E56CF;
+            transition: color 0.3s, transform 0.3s;
+        }
+        .links a:hover {
+            color: #0056b3;
+            transform: translateY(-2px);
+        }
+        .how-to {
+            background-color: #f4f4f9;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .how-to h3 {
+            color: #333333;
+            margin-bottom: 20px;
+            font-size: 1.4em;
+        }
+        .how-to ul {
+            list-style-type: decimal;
+            padding-left: 20px;
+        }
+        .how-to ul li {
+            margin: 10px 0;
+            font-size: 1em;
+            color: black;
+        }
+        iframe {
+            width: 100%;
+            border: none;
+            height: 800px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 20px 0;
+        }
+        .toggle-banner {
+            background-color: #f4f4f9;
+            padding: 10px 20px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .toggle-banner:hover {
+            background-color: #e8e8e8;
+        }
+        .toggle-banner h3 {
+            color: #333333;
+            margin: 0;
+            font-size: 1em;
+            font-weight: normal;
+        }
+        .toggle-banner .arrow {
+            transition: transform 0.3s;
+            border: solid black;
+            border-width: 0 2px 2px 0;
+            display: inline-block;
+            padding: 3px;
+            transform: rotate(45deg);
+        }
+        .toggle-banner.open .arrow {
+            transform: rotate(-135deg);
+        }
+        .toggle-content {
+            display: none;
+            margin-top: 20px;
+            color: black;
+        }
+        .toggle-content ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        .toggle-content ul li {
+            margin: 10px 0;
+        }
+        .read-more {
+            font-size: 1em;
+            color: #0E56CF;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-text">
+            <h1>PSICHIC</h1>
+            <p class="paper-title">Physicochemical graph neural network for learning protein-ligand interaction fingerprints from sequence data</p>
+            <p class="journal-info"><i>Nature Machine Intelligence, 2024</i></p>
+            <p class="authors"><i>Huan Yee Koh, Anh T.N. Nguyen, Shirui Pan, Lauren T. May, Geoffrey I. Webb</i></p>
+            <!-- <a href="#gradio-app" class="cta-button">Explore Our Platform</a> -->
         </div>
-    </body>
+        <div class="header-image">
+            <img src="psichic_banner.png" alt="PSICHIC banner">
+        </div>
+    </header>
+    
+    <div id="gradio-app" class="container">
+        <div class="content">
+            <h2>Welcome to PSICHIC Server!</h2>
+            <div class="toggle-banner" onclick="toggleContent()">
+                <h3>PSICHIC Server allows decoding of protein-ligand interactions directly from sequence data alone.</h3>
+                <span class="read-more">Read more &nbsp;<span class="arrow"></span></span>
+            </div>
+            <div class="toggle-content" id="toggle-content">
+                <p>PSICHIC (PhySIcoCHemICal graph neural network) is a groundbreaking tool for drug discovery, predicting protein-ligand interactions directly from sequence data. Here's why it's so special:</p>
+                <ul>
+                    <li><strong>State-of-the-Art</strong>: Trained on identical protein-ligand pairs without structural data, PSICHIC matched and even surpassed state-of-the-art structure-based methods in binding affinity prediction. PSICHIC also achieved a high 0.96 accuracy in predicting functional effects or in other words, the way in which the drug might affect our bodies.</li>
+                    <li><strong>Emergent Interpretability</strong>: PSICHIC's interpretable fingerprint decodes mechanisms underlying protein-ligand interactions, identifying binding site protein residues and involved ligand atoms from sequence data alone.</li>
+                    <li><strong>Experimentally Validated</strong>: Model capabilities have also been experimentally validated to discover potential drugs.</li>
+                </ul>
+                <div class="links">
+                    <a href="https://www.nature.com/articles/s42256-024-00847-1" target="_blank">Read the Paper</a>
+                    <a href="link_to_blog" target="_blank">Read the Blog Post (coming soon)</a>
+                    <a href="link_to_video" target="_blank">Watch Video Explanation (coming soon)</a>
+                </div>
+            </div>
+            <div class="how-to">
+                <h3>How to Use PSICHIC <span style="font-size: 0.8em;">(sequence data is all you need)</span>:</h3>
+                <ul>
+                    <li><strong>Step 1</strong>: Enter a protein sequence.</li>
+                    <li><strong>Step 2</strong>: Enter ligand's SMILES string(s).</li>
+                    <li><strong>Step 3</strong>: Run the model and discover your next big breakthrough!</li>
+                </ul>
+                <div class="note">
+                    <strong>NOTE:</strong> We only allow <span style="color: red;">ONE</span> protein target against up to 1,000 ligand compounds per run. Estimated completion time is ~1 minute. We are hosting potentially many jobs with only one server, and each run needs to reinitialize the model from scratch, so it could take longer. <br><br>For more flexible and scalable processing (up to 100K compounds in an hour), use the free GPU on Colab
+                    <a href="https://colab.research.google.com/github/huankoh/PSICHIC/blob/main/PSICHIC.ipynb" target="_parent">
+                        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+                    </a> or deploy locally using 
+                    <a href="https://github.com/huankoh/PSICHIC" target="_blank">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="20" height="20"/>
+                        GitHub
+                    </a>.
+                </div>
+            </div>
+            
+            <script
+                type="module"
+                src="https://gradio.s3-us-west-2.amazonaws.com/4.32.2/gradio.js"
+            ></script>
+
+            <gradio-app src="https://psichic.cloud.monash.edu"></gradio-app>
+        </div>
+    </div>
+    <script>
+        function toggleContent() {
+            var content = document.getElementById("toggle-content");
+            var banner = document.querySelector(".toggle-banner");
+            if (content.style.display === "none" || content.style.display === "") {
+                content.style.display = "block";
+                banner.classList.add("open");
+            } else {
+                content.style.display = "none";
+                banner.classList.remove("open");
+            }
+        }
+    </script>
+</body>
 </html>
